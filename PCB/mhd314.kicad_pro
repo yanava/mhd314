@@ -416,6 +416,30 @@
     [
       "e6893b8a-069a-4e5d-bc8d-bd86195d5cb0",
       "DAC"
+    ],
+    [
+      "913309c3-489c-42b3-afc6-179d92cffcea",
+      "AMP"
+    ],
+    [
+      "bfc31d8b-f809-4f07-ada9-e821aec1eec1",
+      "IVConverter_L"
+    ],
+    [
+      "574d008d-ad41-427d-a68f-2f471a4a5a63",
+      "IVConverter_R"
+    ],
+    [
+      "e26c83d8-adef-4edb-bc93-065fe5f245aa",
+      "SeDiffAmp"
+    ],
+    [
+      "9f9c7045-f919-4646-b118-b603b053c849",
+      "BalDiffAmp_R"
+    ],
+    [
+      "1a7c2388-0e9a-4978-b565-aab0f7919656",
+      "BalDiffAmp_L"
     ]
   ],
   "text_variables": {}

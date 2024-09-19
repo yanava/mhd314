@@ -10,10 +10,407 @@
 		(rev "1")
 		(company "mahaudio")
 	)
-	(lib_symbols)
+	(lib_symbols
+		(symbol "Device:R"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 128.27 93.98) (xy 134.62 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "048f3889-807c-46e3-bb6f-ca6ebd29b5c4")
+	)
+	(wire
+		(pts
+			(xy 128.27 80.01) (xy 147.32 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5208dcb7-4b00-45e6-a90c-308969ad9e73")
+	)
+	(wire
+		(pts
+			(xy 142.24 93.98) (xy 147.32 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "629dc530-9477-4a68-bed5-5f5438ca7ff1")
+	)
+	(wire
+		(pts
+			(xy 128.27 106.68) (xy 147.32 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9e0c9be-ef4b-4314-975c-13677f94ff5f")
+	)
+	(wire
+		(pts
+			(xy 128.27 82.55) (xy 147.32 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df9e7f0c-80fb-48a5-991e-a0566f4bd02e")
+	)
+	(wire
+		(pts
+			(xy 128.27 109.22) (xy 147.32 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6b8dca2-0903-4fe4-9781-2c1e3857f3f5")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 138.43 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "621a55f0-0b79-4cdc-acf1-6ca084924e41")
+		(property "Reference" "R55"
+			(at 133.35 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 143.002 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 138.43 95.758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 138.43 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "980ebf3a-1379-408b-a666-ec9429326c42")
+		)
+		(pin "1"
+			(uuid "e3148fb1-602d-4d8f-8bd2-666ec7bc314c")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b"
+					(reference "R55")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(sheet
-		(at 55.88 69.85)
-		(size 38.1 31.75)
+		(at 147.32 77.47)
+		(size 43.815 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 136 255 177 1.0000)
+		)
+		(uuid "913309c3-489c-42b3-afc6-179d92cffcea")
+		(property "Sheetname" "AMP"
+			(at 147.32 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "amp.kicad_sch"
+			(at 147.32 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "AMP_IN_R_P" input
+			(at 147.32 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6abba32c-f568-4aa9-94eb-deed53432495")
+		)
+		(pin "AMP_IN_R_N" input
+			(at 147.32 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c9ef776e-a165-4659-87ad-8d6df86443d1")
+		)
+		(pin "AMP_IN_L_P" input
+			(at 147.32 109.22 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7aa225dd-67a0-4989-ae78-7d0fae925921")
+		)
+		(pin "AMP_IN_L_N" input
+			(at 147.32 106.68 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9890203f-80dd-4e45-853f-acd9fd4bea53")
+		)
+		(pin "AMP_IN_SE_ENABLE" input
+			(at 147.32 93.98 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6ffb79dc-f2c9-4040-ac1e-2d0f8974efbc")
+		)
+		(pin "AMP_OUT_SE_L" output
+			(at 191.135 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1f30b047-4110-4bde-b9b6-81476c5a12e1")
+		)
+		(pin "AMP_OUT_BAL_L_P" output
+			(at 191.135 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ec3135f7-60a5-4c2d-bad2-c8cda9dbd564")
+		)
+		(pin "AMP_OUT_SE_R" output
+			(at 191.135 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "918ce934-0956-4928-9a3c-55fac5a5f8e5")
+		)
+		(pin "AMP_OUT_BAL_R_P" output
+			(at 191.135 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "77aff24a-d448-4984-9526-8b0bf5b2d0db")
+		)
+		(pin "AMP_OUT_BAL_L_N" output
+			(at 191.135 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1fd43a63-c4ae-4e30-8d92-b818addc05f6")
+		)
+		(pin "AMP_OUT_BAL_R_N" output
+			(at 191.135 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "27fc886b-6227-43bb-ba28-c739fafd2b00")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 77.47)
+		(size 38.1 34.29)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -25,7 +422,7 @@
 		)
 		(uuid "e6893b8a-069a-4e5d-bc8d-bd86195d5cb0")
 		(property "Sheetname" "DAC"
-			(at 55.88 69.1384 0)
+			(at 90.17 76.7584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34,7 +431,7 @@
 			)
 		)
 		(property "Sheetfile" "dac.kicad_sch"
-			(at 55.88 102.1846 0)
+			(at 90.17 112.3446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43,7 +440,7 @@
 			)
 		)
 		(pin "DAC_IN_PCM_LRCLK" input
-			(at 55.88 73.66 180)
+			(at 90.17 82.55 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53,7 +450,7 @@
 			(uuid "90cfed43-5b77-4bfb-886a-793a0d67ca63")
 		)
 		(pin "DAC_IN_SCL" input
-			(at 55.88 88.9 180)
+			(at 90.17 101.6 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63,7 +460,7 @@
 			(uuid "5fd80bd6-a75c-48bf-8ddd-6877087838bf")
 		)
 		(pin "DAC_IN_RESETB" input
-			(at 55.88 93.98 180)
+			(at 90.17 109.22 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +470,7 @@
 			(uuid "1794ed2e-88f8-449d-b0a9-38559430de26")
 		)
 		(pin "DAC_IO_SDA" bidirectional
-			(at 55.88 91.44 180)
+			(at 90.17 104.14 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -83,7 +480,7 @@
 			(uuid "e333a1dd-44d0-45ff-80c3-6e421df28c8a")
 		)
 		(pin "DAC_IN_PCM_BCLK" input
-			(at 55.88 76.2 180)
+			(at 90.17 85.09 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -93,7 +490,7 @@
 			(uuid "6a39ea6a-79cc-4ec0-b883-8e428ed1239a")
 		)
 		(pin "DAC_IN_PCM_DATA" input
-			(at 55.88 71.12 180)
+			(at 90.17 80.01 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -103,7 +500,7 @@
 			(uuid "1122efa9-d533-416d-b0b4-92d857c8f458")
 		)
 		(pin "DAC_IN_SPDIF" input
-			(at 55.88 82.55 180)
+			(at 90.17 96.52 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -113,7 +510,7 @@
 			(uuid "082c5ee7-06ec-4140-b20f-1ee43416be2b")
 		)
 		(pin "DAC_SW" output
-			(at 93.98 87.63 0)
+			(at 128.27 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -123,7 +520,7 @@
 			(uuid "8fd71be7-83fd-4fed-9bf8-e844b71d05a4")
 		)
 		(pin "DAC_FSYNC" output
-			(at 93.98 82.55 0)
+			(at 128.27 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -133,7 +530,7 @@
 			(uuid "dc272b37-717d-4f58-aacd-8e2bf7c70b21")
 		)
 		(pin "DAC_HPSDb" output
-			(at 93.98 85.09 0)
+			(at 128.27 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -143,7 +540,7 @@
 			(uuid "cde97522-f5ae-4102-b8e2-3c53717024d2")
 		)
 		(pin "DAC_OUT_L_P" output
-			(at 93.98 100.33 0)
+			(at 128.27 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -153,7 +550,7 @@
 			(uuid "00b12ed3-930c-4c13-8150-e73bcafb9675")
 		)
 		(pin "DAC_OUT_L_N" output
-			(at 93.98 97.79 0)
+			(at 128.27 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -163,7 +560,7 @@
 			(uuid "b5a9f687-8419-450f-ba0c-3fe356d8c465")
 		)
 		(pin "DAC_OUT_R_N" output
-			(at 93.98 73.66 0)
+			(at 128.27 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -173,7 +570,7 @@
 			(uuid "9b5f65cc-d4ad-4e9d-b6a3-9c5b691ee423")
 		)
 		(pin "DAC_OUT_R_P" output
-			(at 93.98 71.12 0)
+			(at 128.27 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
