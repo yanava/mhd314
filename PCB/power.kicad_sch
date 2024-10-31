@@ -6222,6 +6222,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:L")
+		(at 156.21 76.2 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "59eb8f53-7923-415b-9241-cc54ab83d5cc")
+		(property "Reference" "L2"
+			(at 157.48 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.7uH"
+			(at 157.48 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LIB:WE-MAPI_4030"
+			(at 156.21 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/74438357047.pdf"
+			(at 156.21 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 156.21 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfg Partnumber" "74438357047"
+			(at 156.21 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfg" "Würth Elektronik"
+			(at 156.21 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f4fa98b8-be6b-48ba-bd87-4455e8cc1f14")
+		)
+		(pin "2"
+			(uuid "577f36aa-581e-4c46-8bd7-ec820e03480e")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
+					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Regulator_Linear:LM317_SOT-223")
 		(at 73.66 158.75 0)
 		(unit 1)
@@ -8852,76 +8940,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:L")
-		(at 156.21 76.2 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bb465e84-24b2-4509-ac1f-3044d8eb2e2e")
-		(property "Reference" "L2"
-			(at 157.48 74.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "4.7uH"
-			(at 157.48 77.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 156.21 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Inductor"
-			(at 156.21 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "19c211fb-89e3-4bff-a5d8-5b914f03d427")
-		)
-		(pin "2"
-			(uuid "7dd35984-8ad9-4840-ad6b-6d54227eca25")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "L2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VBUS")
 		(at 40.64 27.94 0)
 		(unit 1)
@@ -9363,7 +9381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LIB:WE-MAPI_4030"
 			(at 85.09 33.02 0)
 			(effects
 				(font
@@ -9372,7 +9390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/74438357047.pdf"
 			(at 85.09 33.02 0)
 			(effects
 				(font
@@ -9383,6 +9401,24 @@
 		)
 		(property "Description" "Inductor"
 			(at 85.09 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfg Partnumber" "74438357047"
+			(at 85.09 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfg" "Würth Elektronik"
+			(at 85.09 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
