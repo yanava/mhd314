@@ -12,32 +12,32 @@
 	)
 	(lib_symbols)
 	(junction
-		(at 128.27 88.9)
+		(at 127 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "929d8f83-d8bb-4283-83c1-27014182fb06")
 	)
 	(junction
-		(at 133.35 50.8)
+		(at 132.08 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5d009e8-e321-496b-9741-f64ea23b1588")
 	)
 	(junction
-		(at 125.73 93.98)
+		(at 124.46 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f6e99253-eded-47bd-a463-a1c81fb49300")
 	)
 	(junction
-		(at 130.81 55.88)
+		(at 129.54 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8b07c67-6511-414a-9c69-3406358276f2")
 	)
 	(wire
 		(pts
-			(xy 208.28 54.61) (xy 218.44 54.61)
+			(xy 207.01 41.91) (xy 217.17 41.91)
 		)
 		(stroke
 			(width 0)
@@ -47,7 +47,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 91.44) (xy 220.98 91.44)
+			(xy 207.01 78.74) (xy 219.71 78.74)
 		)
 		(stroke
 			(width 0)
@@ -57,7 +57,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 50.8) (xy 139.7 50.8)
+			(xy 132.08 38.1) (xy 138.43 38.1)
 		)
 		(stroke
 			(width 0)
@@ -67,7 +67,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 55.88) (xy 130.81 55.88)
+			(xy 119.38 43.18) (xy 129.54 43.18)
 		)
 		(stroke
 			(width 0)
@@ -77,7 +77,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 138.43) (xy 125.73 93.98)
+			(xy 124.46 154.94) (xy 124.46 81.28)
 		)
 		(stroke
 			(width 0)
@@ -87,7 +87,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 118.11) (xy 130.81 55.88)
+			(xy 129.54 123.19) (xy 129.54 43.18)
 		)
 		(stroke
 			(width 0)
@@ -97,7 +97,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 113.03) (xy 220.98 113.03)
+			(xy 207.01 113.03) (xy 219.71 113.03)
 		)
 		(stroke
 			(width 0)
@@ -107,7 +107,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 93.98) (xy 125.73 93.98)
+			(xy 119.38 81.28) (xy 124.46 81.28)
 		)
 		(stroke
 			(width 0)
@@ -117,7 +117,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 55.88) (xy 85.09 55.88)
+			(xy 66.04 43.18) (xy 83.82 43.18)
 		)
 		(stroke
 			(width 0)
@@ -127,7 +127,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 55.88) (xy 139.7 55.88)
+			(xy 129.54 43.18) (xy 138.43 43.18)
 		)
 		(stroke
 			(width 0)
@@ -137,7 +137,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 88.9) (xy 139.7 88.9)
+			(xy 127 76.2) (xy 138.43 76.2)
 		)
 		(stroke
 			(width 0)
@@ -147,7 +147,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 133.35) (xy 128.27 133.35)
+			(xy 140.97 144.78) (xy 127 144.78)
 		)
 		(stroke
 			(width 0)
@@ -157,7 +157,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 118.11) (xy 130.81 118.11)
+			(xy 139.7 123.19) (xy 129.54 123.19)
 		)
 		(stroke
 			(width 0)
@@ -167,7 +167,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 113.03) (xy 133.35 50.8)
+			(xy 132.08 113.03) (xy 132.08 38.1)
 		)
 		(stroke
 			(width 0)
@@ -177,7 +177,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 118.11) (xy 220.98 118.11)
+			(xy 207.01 123.19) (xy 219.71 123.19)
 		)
 		(stroke
 			(width 0)
@@ -187,7 +187,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 133.35) (xy 128.27 88.9)
+			(xy 127 144.78) (xy 127 76.2)
 		)
 		(stroke
 			(width 0)
@@ -197,7 +197,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 50.8) (xy 85.09 50.8)
+			(xy 66.04 38.1) (xy 83.82 38.1)
 		)
 		(stroke
 			(width 0)
@@ -207,7 +207,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 138.43) (xy 125.73 138.43)
+			(xy 140.97 154.94) (xy 124.46 154.94)
 		)
 		(stroke
 			(width 0)
@@ -217,7 +217,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 133.35) (xy 220.98 133.35)
+			(xy 208.28 144.78) (xy 220.98 144.78)
 		)
 		(stroke
 			(width 0)
@@ -227,7 +227,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 93.98) (xy 85.09 93.98)
+			(xy 66.04 81.28) (xy 83.82 81.28)
 		)
 		(stroke
 			(width 0)
@@ -237,7 +237,17 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 72.39) (xy 139.7 72.39)
+			(xy 76.2 118.11) (xy 139.7 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a355527d-5f4b-4827-84ea-a659d9770e07")
+	)
+	(wire
+		(pts
+			(xy 73.66 59.69) (xy 138.43 59.69)
 		)
 		(stroke
 			(width 0)
@@ -247,7 +257,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 50.8) (xy 133.35 50.8)
+			(xy 119.38 38.1) (xy 132.08 38.1)
 		)
 		(stroke
 			(width 0)
@@ -257,7 +267,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 88.9) (xy 85.09 88.9)
+			(xy 66.04 76.2) (xy 83.82 76.2)
 		)
 		(stroke
 			(width 0)
@@ -267,7 +277,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 93.98) (xy 139.7 93.98)
+			(xy 124.46 81.28) (xy 138.43 81.28)
 		)
 		(stroke
 			(width 0)
@@ -277,7 +287,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 138.43) (xy 220.98 138.43)
+			(xy 208.28 154.94) (xy 220.98 154.94)
 		)
 		(stroke
 			(width 0)
@@ -287,7 +297,17 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 88.9) (xy 128.27 88.9)
+			(xy 76.2 149.86) (xy 140.97 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d102a798-1fab-48b7-81da-efb6023c81d9")
+	)
+	(wire
+		(pts
+			(xy 119.38 76.2) (xy 127 76.2)
 		)
 		(stroke
 			(width 0)
@@ -297,7 +317,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 113.03) (xy 133.35 113.03)
+			(xy 139.7 113.03) (xy 132.08 113.03)
 		)
 		(stroke
 			(width 0)
@@ -307,7 +327,7 @@
 	)
 	(hierarchical_label "AMP_IN_L_P"
 		(shape input)
-		(at 67.31 50.8 180)
+		(at 66.04 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -319,7 +339,7 @@
 	)
 	(hierarchical_label "AMP_IN_R_P"
 		(shape input)
-		(at 67.31 88.9 180)
+		(at 66.04 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -331,7 +351,7 @@
 	)
 	(hierarchical_label "AMP_IN_SE_ENABLE"
 		(shape input)
-		(at 74.93 72.39 180)
+		(at 73.66 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -343,7 +363,7 @@
 	)
 	(hierarchical_label "AMP_IN_R_N"
 		(shape input)
-		(at 67.31 93.98 180)
+		(at 66.04 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -355,7 +375,7 @@
 	)
 	(hierarchical_label "AMP_OUT_BAL_L_N"
 		(shape output)
-		(at 220.98 118.11 0)
+		(at 219.71 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -365,9 +385,21 @@
 		)
 		(uuid "8952d974-a9b2-4628-ba9d-63603cdd7a41")
 	)
+	(hierarchical_label "AMP_IN_BAL_L_ENABLE"
+		(shape input)
+		(at 76.2 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9d2a455d-dcf3-4add-b038-706e8140cb03")
+	)
 	(hierarchical_label "AMP_OUT_BAL_R_P"
 		(shape output)
-		(at 220.98 133.35 0)
+		(at 220.98 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -379,7 +411,7 @@
 	)
 	(hierarchical_label "AMP_OUT_SE_R"
 		(shape output)
-		(at 220.98 91.44 0)
+		(at 219.71 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -391,7 +423,7 @@
 	)
 	(hierarchical_label "AMP_IN_L_N"
 		(shape input)
-		(at 67.31 55.88 180)
+		(at 66.04 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -403,7 +435,7 @@
 	)
 	(hierarchical_label "AMP_OUT_SE_L"
 		(shape output)
-		(at 218.44 54.61 0)
+		(at 217.17 41.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -413,9 +445,21 @@
 		)
 		(uuid "c3dda348-f397-4d27-b456-5cf583601b8a")
 	)
+	(hierarchical_label "AMP_IN_BAL_R_ENABLE"
+		(shape input)
+		(at 76.2 149.86 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cb2d0efe-fa6c-40dd-9082-26f629dbdc90")
+	)
 	(hierarchical_label "AMP_OUT_BAL_R_N"
 		(shape output)
-		(at 220.98 138.43 0)
+		(at 220.98 154.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -427,7 +471,7 @@
 	)
 	(hierarchical_label "AMP_OUT_BAL_L_P"
 		(shape output)
-		(at 220.98 113.03 0)
+		(at 219.71 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -438,8 +482,8 @@
 		(uuid "de9fda43-4dd6-41d3-83ed-0d7fc252c6ed")
 	)
 	(sheet
-		(at 140.97 109.855)
-		(size 67.31 11.43)
+		(at 139.7 109.855)
+		(size 67.31 16.51)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -450,7 +494,7 @@
 		)
 		(uuid "1a7c2388-0e9a-4978-b565-aab0f7919656")
 		(property "Sheetname" "BalDiffAmp_L"
-			(at 140.97 109.1434 0)
+			(at 139.7 109.1434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -459,7 +503,7 @@
 			)
 		)
 		(property "Sheetfile" "BalDiffAmp.kicad_sch"
-			(at 140.97 121.8696 0)
+			(at 139.7 126.9496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -468,7 +512,7 @@
 			)
 		)
 		(pin "BALDIFFAMP_IN_N" input
-			(at 140.97 118.11 180)
+			(at 139.7 123.19 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -478,7 +522,7 @@
 			(uuid "e7b6840b-b084-4269-bb49-c7ae84729abc")
 		)
 		(pin "BALDIFFAMP_IN_P" input
-			(at 140.97 113.03 180)
+			(at 139.7 113.03 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -488,7 +532,7 @@
 			(uuid "c7a3dfe6-3938-4abf-b5cb-555a0357a086")
 		)
 		(pin "BALDIFFAMP_OUT_P" output
-			(at 208.28 113.03 0)
+			(at 207.01 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -498,7 +542,7 @@
 			(uuid "9a66e861-0b47-4806-97b4-ea00f22f28e4")
 		)
 		(pin "BALDIFFAMP_OUT_N" output
-			(at 208.28 118.11 0)
+			(at 207.01 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -506,6 +550,16 @@
 				(justify right)
 			)
 			(uuid "daf28f37-ada5-4613-894d-59ddc6a15849")
+		)
+		(pin "BALDIFFAMP_ENABLE" input
+			(at 139.7 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "056326d3-0d65-4095-91a7-22302b1f0216")
 		)
 		(instances
 			(project "mhd314"
@@ -516,7 +570,7 @@
 		)
 	)
 	(sheet
-		(at 85.09 85.09)
+		(at 83.82 72.39)
 		(size 35.56 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -528,7 +582,7 @@
 		)
 		(uuid "574d008d-ad41-427d-a68f-2f471a4a5a63")
 		(property "Sheetname" "IVConverter_R"
-			(at 85.09 84.3784 0)
+			(at 83.82 71.6784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -537,7 +591,7 @@
 			)
 		)
 		(property "Sheetfile" "ivconverter.kicad_sch"
-			(at 85.09 98.3746 0)
+			(at 83.82 85.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -546,7 +600,7 @@
 			)
 		)
 		(pin "IVCONV_IN_P" input
-			(at 85.09 88.9 180)
+			(at 83.82 76.2 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -556,7 +610,7 @@
 			(uuid "cfe0e73e-9be2-43f6-9719-6239470d3bb4")
 		)
 		(pin "IVCONV_IN_N" input
-			(at 85.09 93.98 180)
+			(at 83.82 81.28 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -566,7 +620,7 @@
 			(uuid "fadaa763-bf90-48ba-b333-86050aad3a8c")
 		)
 		(pin "IVCONV_OUT_N" output
-			(at 120.65 93.98 0)
+			(at 119.38 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -576,7 +630,7 @@
 			(uuid "9a3b0832-151b-4b80-92f4-1108e7c33fe3")
 		)
 		(pin "IVCONV_OUT_P" output
-			(at 120.65 88.9 0)
+			(at 119.38 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -594,8 +648,8 @@
 		)
 	)
 	(sheet
-		(at 140.97 130.175)
-		(size 67.31 11.43)
+		(at 140.97 141.605)
+		(size 67.31 16.51)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -606,7 +660,7 @@
 		)
 		(uuid "9f9c7045-f919-4646-b118-b603b053c849")
 		(property "Sheetname" "BalDiffAmp_R"
-			(at 140.97 129.4634 0)
+			(at 140.97 140.8934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -615,7 +669,7 @@
 			)
 		)
 		(property "Sheetfile" "BalDiffAmp.kicad_sch"
-			(at 140.97 142.1896 0)
+			(at 140.97 158.6996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -624,7 +678,7 @@
 			)
 		)
 		(pin "BALDIFFAMP_IN_N" input
-			(at 140.97 138.43 180)
+			(at 140.97 154.94 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -634,7 +688,7 @@
 			(uuid "1f38a512-df5a-4f30-b177-61b2612174df")
 		)
 		(pin "BALDIFFAMP_IN_P" input
-			(at 140.97 133.35 180)
+			(at 140.97 144.78 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -644,7 +698,7 @@
 			(uuid "b41c18d0-39de-4839-817d-371abda10e99")
 		)
 		(pin "BALDIFFAMP_OUT_P" output
-			(at 208.28 133.35 0)
+			(at 208.28 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -654,7 +708,7 @@
 			(uuid "6f18473c-8385-4f23-91ed-8ad9a443226e")
 		)
 		(pin "BALDIFFAMP_OUT_N" output
-			(at 208.28 138.43 0)
+			(at 208.28 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -662,6 +716,16 @@
 				(justify right)
 			)
 			(uuid "6fc704a1-dcdd-4967-b37e-ecbb1b3fb324")
+		)
+		(pin "BALDIFFAMP_ENABLE" input
+			(at 140.97 149.86 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e8509210-aec6-4d03-b9ec-986480b35868")
 		)
 		(instances
 			(project "mhd314"
@@ -672,7 +736,7 @@
 		)
 	)
 	(sheet
-		(at 85.09 46.99)
+		(at 83.82 34.29)
 		(size 35.56 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -684,7 +748,7 @@
 		)
 		(uuid "bfc31d8b-f809-4f07-ada9-e821aec1eec1")
 		(property "Sheetname" "IVConverter_L"
-			(at 85.09 46.2784 0)
+			(at 83.82 33.5784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -693,7 +757,7 @@
 			)
 		)
 		(property "Sheetfile" "ivconverter.kicad_sch"
-			(at 85.09 60.2746 0)
+			(at 83.82 47.5746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -702,7 +766,7 @@
 			)
 		)
 		(pin "IVCONV_IN_P" input
-			(at 85.09 50.8 180)
+			(at 83.82 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -712,7 +776,7 @@
 			(uuid "9d78eeaf-7a20-447a-a270-fdcb09a45736")
 		)
 		(pin "IVCONV_IN_N" input
-			(at 85.09 55.88 180)
+			(at 83.82 43.18 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -722,7 +786,7 @@
 			(uuid "f19709af-5488-4d41-b73a-6894edd8635b")
 		)
 		(pin "IVCONV_OUT_N" output
-			(at 120.65 55.88 0)
+			(at 119.38 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -732,7 +796,7 @@
 			(uuid "2d0b6295-a571-4358-b7e4-a969e926f2b7")
 		)
 		(pin "IVCONV_OUT_P" output
-			(at 120.65 50.8 0)
+			(at 119.38 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -750,7 +814,7 @@
 		)
 	)
 	(sheet
-		(at 139.7 46.99)
+		(at 138.43 34.29)
 		(size 68.58 50.8)
 		(fields_autoplaced yes)
 		(stroke
@@ -762,7 +826,7 @@
 		)
 		(uuid "e26c83d8-adef-4edb-bc93-065fe5f245aa")
 		(property "Sheetname" "SeDiffAmp"
-			(at 139.7 46.2784 0)
+			(at 138.43 33.5784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -771,7 +835,7 @@
 			)
 		)
 		(property "Sheetfile" "sediffamp.kicad_sch"
-			(at 139.7 98.3746 0)
+			(at 138.43 85.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -780,7 +844,7 @@
 			)
 		)
 		(pin "SEDIFFAMP_INL_P" input
-			(at 139.7 50.8 180)
+			(at 138.43 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -790,7 +854,7 @@
 			(uuid "eac8ca8b-72b6-488c-9fb5-6a757f7fba40")
 		)
 		(pin "SEDIFFAMP_INL_N" input
-			(at 139.7 55.88 180)
+			(at 138.43 43.18 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -800,7 +864,7 @@
 			(uuid "98e6672f-5dc9-4da7-a6c1-9684374221a7")
 		)
 		(pin "SEDIFFAMP_OUTR" output
-			(at 208.28 91.44 0)
+			(at 207.01 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -810,7 +874,7 @@
 			(uuid "175f6f98-cca6-4004-934d-463dafbda749")
 		)
 		(pin "SEDIFFAMP_ENABLE" input
-			(at 139.7 72.39 180)
+			(at 138.43 59.69 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -820,7 +884,7 @@
 			(uuid "8b2248b5-6798-4ccf-946c-25ec46b8f73d")
 		)
 		(pin "SEDIFFAMP_OUTL" output
-			(at 208.28 54.61 0)
+			(at 207.01 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -830,7 +894,7 @@
 			(uuid "3a753a68-9854-44de-85fd-b149aeabf742")
 		)
 		(pin "SEDIFFAMP_INR_P" input
-			(at 139.7 88.9 180)
+			(at 138.43 76.2 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -840,7 +904,7 @@
 			(uuid "93049065-50d2-4052-b124-d0b020ae5179")
 		)
 		(pin "SEDIFFAMP_INR_N" input
-			(at 139.7 93.98 180)
+			(at 138.43 81.28 180)
 			(effects
 				(font
 					(size 1.27 1.27)

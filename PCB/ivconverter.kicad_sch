@@ -1469,7 +1469,7 @@
 				)
 			)
 		)
-		(property "Value" "1.21k"
+		(property "Value" "1.05k"
 			(at 143.256 105.918 90)
 			(effects
 				(font
@@ -1496,6 +1496,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 149.86 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "0.1%"
 			(at 149.86 107.95 0)
 			(effects
 				(font
@@ -1658,7 +1667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "25V"
 			(at 132.08 156.21 0)
 			(effects
 				(font
@@ -1830,6 +1839,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 149.86 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 149.86 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d7cdfdd7-9d35-4f28-83c0-19efb2ac09ea")
 		)
@@ -1901,6 +1928,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 149.86 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 149.86 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bf307a9a-de53-41d9-a331-9b08ba9aeecb")
 		)
@@ -1937,7 +1982,7 @@
 				)
 			)
 		)
-		(property "Value" "1.21k"
+		(property "Value" "1.05k"
 			(at 143.51 54.102 90)
 			(effects
 				(font
@@ -1964,6 +2009,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 149.86 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "0.1%"
 			(at 149.86 55.88 0)
 			(effects
 				(font
@@ -2010,7 +2064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "-12VA"
+		(property "Value" "-5VA"
 			(at 158.75 168.91 0)
 			(effects
 				(font
@@ -2195,7 +2249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "25V"
 			(at 132.08 143.51 0)
 			(effects
 				(font
@@ -2341,7 +2395,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 151.13 95.25 0)
 			(effects
 				(font
@@ -2433,7 +2487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 161.29 147.32 0)
 			(effects
 				(font
@@ -2524,7 +2578,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 151.13 72.39 0)
 			(effects
 				(font
@@ -2607,7 +2661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12VA"
+		(property "Value" "+5VA"
 			(at 158.75 130.81 0)
 			(effects
 				(font
