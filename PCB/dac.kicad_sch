@@ -1551,7 +1551,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 91.44) (xy 116.84 91.44)
+			(xy 54.61 91.44) (xy 116.84 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1591,7 +1591,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 93.98) (xy 59.69 93.98)
+			(xy 40.64 93.98) (xy 46.99 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1601,7 +1601,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 83.82) (xy 156.21 83.82)
+			(xy 54.61 83.82) (xy 156.21 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1641,7 +1641,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 88.9) (xy 109.22 88.9)
+			(xy 54.61 88.9) (xy 109.22 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1751,7 +1751,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 88.9) (xy 59.69 88.9)
+			(xy 40.64 88.9) (xy 46.99 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1871,7 +1871,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 99.06) (xy 59.69 99.06)
+			(xy 40.64 99.06) (xy 46.99 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1881,7 +1881,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 86.36) (xy 59.69 86.36)
+			(xy 40.64 86.36) (xy 46.99 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1911,7 +1911,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 86.36) (xy 101.6 86.36)
+			(xy 54.61 86.36) (xy 101.6 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2051,7 +2051,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 99.06) (xy 81.28 99.06)
+			(xy 54.61 99.06) (xy 81.28 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2061,7 +2061,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 91.44) (xy 59.69 91.44)
+			(xy 40.64 91.44) (xy 46.99 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2121,7 +2121,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 101.6) (xy 59.69 101.6)
+			(xy 40.64 101.6) (xy 46.99 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2291,7 +2291,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 93.98) (xy 127 93.98)
+			(xy 54.61 93.98) (xy 127 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2321,7 +2321,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 101.6) (xy 88.9 101.6)
+			(xy 54.61 101.6) (xy 88.9 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2361,7 +2361,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 83.82) (xy 59.69 83.82)
+			(xy 40.64 83.82) (xy 46.99 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2471,7 +2471,7 @@
 	)
 	(text "Place close to U1"
 		(exclude_from_sim no)
-		(at 63.754 104.902 0)
+		(at 51.054 104.902 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2546,7 +2546,7 @@
 	)
 	(hierarchical_label "DAC_IN_PCM_LRCLK"
 		(shape input)
-		(at 53.34 88.9 180)
+		(at 40.64 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2558,7 +2558,7 @@
 	)
 	(hierarchical_label "DAC_IO_SDA"
 		(shape bidirectional)
-		(at 53.34 101.6 180)
+		(at 40.64 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2618,7 +2618,7 @@
 	)
 	(hierarchical_label "DAC_IN_SPDIF"
 		(shape input)
-		(at 53.34 83.82 180)
+		(at 40.64 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2630,7 +2630,7 @@
 	)
 	(hierarchical_label "DAC_IN_PCM_BCLK"
 		(shape input)
-		(at 53.34 91.44 180)
+		(at 40.64 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2654,7 +2654,7 @@
 	)
 	(hierarchical_label "DAC_IN_SCL"
 		(shape input)
-		(at 53.34 99.06 180)
+		(at 40.64 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2666,7 +2666,7 @@
 	)
 	(hierarchical_label "DAC_IN_PCM_DATA"
 		(shape input)
-		(at 53.34 86.36 180)
+		(at 40.64 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2678,7 +2678,7 @@
 	)
 	(hierarchical_label "DAC_IN_RESETB"
 		(shape input)
-		(at 53.34 93.98 180)
+		(at 40.64 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2792,7 +2792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 210.5152 36.83 0)
 			(effects
 				(font
@@ -2854,7 +2854,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 63.5 88.9 90)
+		(at 50.8 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2862,7 +2862,7 @@
 		(dnp no)
 		(uuid "08d29709-ad2b-4327-a798-804636f3286a")
 		(property "Reference" "R3"
-			(at 58.674 87.884 90)
+			(at 45.974 87.884 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2870,7 +2870,7 @@
 			)
 		)
 		(property "Value" "20R"
-			(at 69.088 87.63 90)
+			(at 56.388 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2878,7 +2878,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 63.5 90.678 90)
+			(at 50.8 90.678 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2887,7 +2887,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 88.9 0)
+			(at 50.8 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2896,7 +2896,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 63.5 88.9 0)
+			(at 50.8 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2905,7 +2905,7 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 63.5 88.9 0)
+			(at 50.8 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3041,7 +3041,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 167.64 51.1048 0)
 			(effects
 				(font
@@ -3261,7 +3261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 221.9452 36.83 0)
 			(effects
 				(font
@@ -3323,7 +3323,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 63.5 86.36 90)
+		(at 50.8 86.36 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3331,7 +3331,7 @@
 		(dnp no)
 		(uuid "243a346c-b30a-4270-946f-2a5befc314ce")
 		(property "Reference" "R2"
-			(at 58.674 85.344 90)
+			(at 45.974 85.344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3339,7 +3339,7 @@
 			)
 		)
 		(property "Value" "20R"
-			(at 69.088 85.344 90)
+			(at 56.388 85.344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3347,7 +3347,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 63.5 88.138 90)
+			(at 50.8 88.138 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3356,7 +3356,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 86.36 0)
+			(at 50.8 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3365,7 +3365,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 63.5 86.36 0)
+			(at 50.8 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3374,7 +3374,7 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 63.5 86.36 0)
+			(at 50.8 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3465,7 +3465,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 63.5 83.82 90)
+		(at 50.8 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3473,7 +3473,7 @@
 		(dnp no)
 		(uuid "2d1a695e-1f62-443b-8be9-a28a8c52beac")
 		(property "Reference" "R1"
-			(at 58.674 82.55 90)
+			(at 45.974 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3481,7 +3481,7 @@
 			)
 		)
 		(property "Value" "20R"
-			(at 69.088 82.296 90)
+			(at 56.388 82.296 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3489,7 +3489,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 63.5 85.598 90)
+			(at 50.8 85.598 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3498,7 +3498,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 83.82 0)
+			(at 50.8 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3507,7 +3507,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 63.5 83.82 0)
+			(at 50.8 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3516,7 +3516,7 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 63.5 83.82 90)
+			(at 50.8 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3673,7 +3673,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 63.5 91.44 90)
+		(at 50.8 91.44 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3681,7 +3681,7 @@
 		(dnp no)
 		(uuid "44f1b8ab-0eec-4c3d-bc7b-2bdee44064bd")
 		(property "Reference" "R4"
-			(at 58.674 90.424 90)
+			(at 45.974 90.424 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3689,7 +3689,7 @@
 			)
 		)
 		(property "Value" "20R"
-			(at 69.088 90.17 90)
+			(at 56.388 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3697,7 +3697,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 63.5 93.218 90)
+			(at 50.8 93.218 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3706,7 +3706,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 91.44 0)
+			(at 50.8 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3715,7 +3715,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 63.5 91.44 0)
+			(at 50.8 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3724,7 +3724,7 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 63.5 91.44 0)
+			(at 50.8 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4653,7 +4653,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 63.5 93.98 90)
+		(at 50.8 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4661,7 +4661,7 @@
 		(dnp no)
 		(uuid "7f65a938-b1e0-4036-b604-27d1392ab7ad")
 		(property "Reference" "R5"
-			(at 58.42 92.964 90)
+			(at 45.72 92.964 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4669,7 +4669,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 68.58 92.71 90)
+			(at 55.88 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4677,7 +4677,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 63.5 95.758 90)
+			(at 50.8 95.758 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4686,7 +4686,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 93.98 0)
+			(at 50.8 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4695,7 +4695,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 63.5 93.98 0)
+			(at 50.8 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4786,7 +4786,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 63.5 101.6 90)
+		(at 50.8 101.6 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4794,7 +4794,7 @@
 		(dnp no)
 		(uuid "851a2bbe-66bf-44c6-bd4c-3f3172212ff6")
 		(property "Reference" "R7"
-			(at 58.42 100.584 90)
+			(at 45.72 100.584 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4802,7 +4802,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 68.58 100.33 90)
+			(at 55.88 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4810,7 +4810,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 63.5 103.378 90)
+			(at 50.8 103.378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4819,7 +4819,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 101.6 0)
+			(at 50.8 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4828,7 +4828,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 63.5 101.6 0)
+			(at 50.8 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4945,7 +4945,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 126.0348 107.95 0)
 			(effects
 				(font
@@ -5083,7 +5083,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 63.5 99.06 90)
+		(at 50.8 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5091,7 +5091,7 @@
 		(dnp no)
 		(uuid "931a9e62-de43-4fc7-8ab1-4ae67d07314b")
 		(property "Reference" "R6"
-			(at 58.42 97.79 90)
+			(at 45.72 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5099,7 +5099,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 68.58 97.79 90)
+			(at 55.88 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5107,7 +5107,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 63.5 100.838 90)
+			(at 50.8 100.838 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5116,7 +5116,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 99.06 0)
+			(at 50.8 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5125,7 +5125,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 63.5 99.06 0)
+			(at 50.8 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5176,7 +5176,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 244.8052 36.83 0)
 			(effects
 				(font
@@ -5766,7 +5766,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 233.3752 36.83 0)
 			(effects
 				(font
@@ -5920,7 +5920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 244.8052 59.69 0)
 			(effects
 				(font

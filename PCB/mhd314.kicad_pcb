@@ -81,9 +81,9 @@
 	)
 	(net 0 "")
 	(gr_arc
-		(start 159.75 46.25)
-		(mid 161.87132 47.12868)
-		(end 162.75 49.25)
+		(start 182 71.75)
+		(mid 184.12132 72.62868)
+		(end 185 74.75)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -92,8 +92,8 @@
 		(uuid "624f58b8-f739-42f3-bd35-b4a6d2e1e134")
 	)
 	(gr_line
-		(start 162.75 49.25)
-		(end 162.75 99.75)
+		(start 185 74.75)
+		(end 185 125.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -102,8 +102,8 @@
 		(uuid "6a962442-a62c-4cf7-8897-1db8122a4ed9")
 	)
 	(gr_line
-		(start 100.25 46.25)
-		(end 159.75 46.25)
+		(start 103 71.75)
+		(end 182 71.75)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -112,9 +112,9 @@
 		(uuid "71843fbe-4c88-4a86-bb25-89e9d175f2d9")
 	)
 	(gr_arc
-		(start 162.75 99.75)
-		(mid 161.87132 101.87132)
-		(end 159.75 102.75)
+		(start 185 125.25)
+		(mid 184.12132 127.37132)
+		(end 182 128.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -123,8 +123,8 @@
 		(uuid "7c35d45c-ed7e-4ab7-a3df-3d8e713c2253")
 	)
 	(gr_line
-		(start 159.75 102.75)
-		(end 100.25 102.75)
+		(start 182 128.25)
+		(end 103 128.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -133,9 +133,9 @@
 		(uuid "84819aae-8b3d-4e09-a07e-77fd90471300")
 	)
 	(gr_arc
-		(start 100.25 102.75)
-		(mid 98.12868 101.87132)
-		(end 97.25 99.75)
+		(start 103 128.25)
+		(mid 100.87868 127.37132)
+		(end 100 125.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -144,9 +144,9 @@
 		(uuid "c1a256df-88ad-4992-bae7-90d472b69201")
 	)
 	(gr_arc
-		(start 97.25 49.25)
-		(mid 98.12868 47.12868)
-		(end 100.25 46.25)
+		(start 100 74.75)
+		(mid 100.87868 72.62868)
+		(end 103 71.75)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -155,8 +155,8 @@
 		(uuid "d0e6ad3f-e069-4a41-8c35-b2960f6954ce")
 	)
 	(gr_line
-		(start 97.25 99.75)
-		(end 97.25 49.25)
+		(start 100 125.25)
+		(end 100 74.75)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -165,7 +165,7 @@
 		(uuid "f2a9e0f7-0cb9-4946-be98-363b6c927e87")
 	)
 	(via
-		(at 159 50)
+		(at 161.75 75.5)
 		(size 6)
 		(drill 2.75)
 		(layers "F.Cu" "B.Cu")
@@ -173,7 +173,7 @@
 		(uuid "6a9514ae-df21-47ae-993f-20cadf09a9ad")
 	)
 	(via
-		(at 101 50)
+		(at 103.75 75.5)
 		(size 6)
 		(drill 2.75)
 		(layers "F.Cu" "B.Cu")
@@ -181,7 +181,7 @@
 		(uuid "6ef8510f-e315-4a99-9a6d-e581cd7cf675")
 	)
 	(via
-		(at 101 99)
+		(at 103.75 124.5)
 		(size 6)
 		(drill 2.75)
 		(layers "F.Cu" "B.Cu")
@@ -189,7 +189,7 @@
 		(uuid "da2af8b3-8fab-4681-b0e0-a39c29eac6f6")
 	)
 	(via
-		(at 159 99)
+		(at 161.75 124.5)
 		(size 6)
 		(drill 2.75)
 		(layers "F.Cu" "B.Cu")

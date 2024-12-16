@@ -10,34 +10,495 @@
 		(rev "1")
 		(company "mahaudio")
 	)
-	(lib_symbols)
-	(junction
-		(at 127 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "929d8f83-d8bb-4283-83c1-27014182fb06")
+	(lib_symbols
+		(symbol "Diode:BAV99"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "BAV99"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BAV99_0_1"
+				(polyline
+					(pts
+						(xy -5.08 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BAV99_1_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.27) (xy 3.81 -1.27) (xy 3.81 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 1.27) (xy -1.27 0) (xy -3.81 -1.27) (xy -3.81 1.27) (xy -3.81 1.27) (xy -3.81 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 3.81 0) (xy 1.27 -1.27) (xy 1.27 1.27) (xy 1.27 1.27) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:+12VA"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+12VA"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+12VA\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+12VA_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+12VA_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:-12VA"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "-12VA"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"-12VA\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "-12VA_0_0"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "-12VA_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy 0.762 1.27) (xy 0 2.54) (xy -0.762 1.27) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+		)
 	)
 	(junction
-		(at 132.08 38.1)
+		(at 203.2 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d5d009e8-e321-496b-9741-f64ea23b1588")
+		(uuid "07b59a40-347d-4514-9769-c90012c90380")
 	)
 	(junction
-		(at 124.46 81.28)
+		(at 203.2 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f6e99253-eded-47bd-a463-a1c81fb49300")
+		(uuid "0d4f59ac-7121-48b7-997f-cdbce9bc216f")
 	)
 	(junction
-		(at 129.54 43.18)
+		(at 101.6 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f8b07c67-6511-414a-9c69-3406358276f2")
+		(uuid "1b8018a4-b14f-4dd6-a89f-7882c3c179d1")
+	)
+	(junction
+		(at 107.95 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c497ad4-e939-4794-aa2a-105eb061e7dc")
+	)
+	(junction
+		(at 204.47 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d62ed89-d3f7-4039-895f-f850e7ad2c0f")
+	)
+	(junction
+		(at 105.41 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "526e0f03-2f07-4401-8957-c46b94378998")
+	)
+	(junction
+		(at 204.47 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "685a3e57-f7b0-44c7-87b9-3878b228e4e5")
+	)
+	(junction
+		(at 99.06 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a15feaa1-af1d-4980-9a3c-6526617ef55d")
+	)
+	(junction
+		(at 203.2 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b107cbe7-e765-45f5-9ae3-f083293c7279")
+	)
+	(junction
+		(at 203.2 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4825ce1-66bd-4bd1-9c16-2f59a1fade62")
 	)
 	(wire
 		(pts
-			(xy 207.01 41.91) (xy 217.17 41.91)
+			(xy 184.15 41.91) (xy 204.47 41.91)
 		)
 		(stroke
 			(width 0)
@@ -47,7 +508,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 78.74) (xy 219.71 78.74)
+			(xy 184.15 78.74) (xy 204.47 78.74)
 		)
 		(stroke
 			(width 0)
@@ -57,17 +518,17 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 38.1) (xy 138.43 38.1)
+			(xy 203.2 100.33) (xy 218.44 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1a709232-7b92-4ea3-b1cc-d5f0acefbb82")
+		(uuid "3313047f-6d24-40dd-8257-313dda6b34b8")
 	)
 	(wire
 		(pts
-			(xy 119.38 43.18) (xy 129.54 43.18)
+			(xy 96.52 43.18) (xy 105.41 43.18)
 		)
 		(stroke
 			(width 0)
@@ -77,7 +538,17 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 154.94) (xy 124.46 81.28)
+			(xy 182.88 157.48) (xy 203.2 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "403ff97d-c284-4a9a-859b-5cca1bd34355")
+	)
+	(wire
+		(pts
+			(xy 99.06 157.48) (xy 99.06 81.28)
 		)
 		(stroke
 			(width 0)
@@ -87,7 +558,17 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 123.19) (xy 129.54 43.18)
+			(xy 53.34 110.49) (xy 115.57 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "505de012-3700-45e3-9ee2-a4a34fe84747")
+	)
+	(wire
+		(pts
+			(xy 105.41 120.65) (xy 105.41 43.18)
 		)
 		(stroke
 			(width 0)
@@ -97,7 +578,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 113.03) (xy 219.71 113.03)
+			(xy 182.88 100.33) (xy 203.2 100.33)
 		)
 		(stroke
 			(width 0)
@@ -107,7 +588,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 81.28) (xy 124.46 81.28)
+			(xy 96.52 81.28) (xy 99.06 81.28)
 		)
 		(stroke
 			(width 0)
@@ -117,7 +598,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 43.18) (xy 83.82 43.18)
+			(xy 43.18 43.18) (xy 60.96 43.18)
 		)
 		(stroke
 			(width 0)
@@ -127,27 +608,17 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 43.18) (xy 138.43 43.18)
+			(xy 105.41 43.18) (xy 115.57 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "60f61e8e-384d-4d42-8b68-88f4555ff8bc")
+		(uuid "6670c402-7dcb-4d0d-9c9a-c311a6e55fda")
 	)
 	(wire
 		(pts
-			(xy 127 76.2) (xy 138.43 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "708c2224-3b5d-4f16-b46f-d6fd8b327655")
-	)
-	(wire
-		(pts
-			(xy 140.97 144.78) (xy 127 144.78)
+			(xy 115.57 137.16) (xy 101.6 137.16)
 		)
 		(stroke
 			(width 0)
@@ -157,7 +628,27 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 123.19) (xy 129.54 123.19)
+			(xy 99.06 81.28) (xy 115.57 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "740c060c-a32c-4eec-8fed-3442aa199ce2")
+	)
+	(wire
+		(pts
+			(xy 203.2 137.16) (xy 217.17 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75b4939b-f65e-48d8-9573-06d17d94aa2c")
+	)
+	(wire
+		(pts
+			(xy 115.57 120.65) (xy 105.41 120.65)
 		)
 		(stroke
 			(width 0)
@@ -167,7 +658,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 113.03) (xy 132.08 38.1)
+			(xy 107.95 100.33) (xy 107.95 38.1)
 		)
 		(stroke
 			(width 0)
@@ -177,7 +668,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 123.19) (xy 219.71 123.19)
+			(xy 182.88 120.65) (xy 203.2 120.65)
 		)
 		(stroke
 			(width 0)
@@ -187,7 +678,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 144.78) (xy 127 76.2)
+			(xy 101.6 137.16) (xy 101.6 76.2)
 		)
 		(stroke
 			(width 0)
@@ -197,7 +688,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 38.1) (xy 83.82 38.1)
+			(xy 43.18 38.1) (xy 60.96 38.1)
 		)
 		(stroke
 			(width 0)
@@ -207,7 +698,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 154.94) (xy 124.46 154.94)
+			(xy 115.57 157.48) (xy 99.06 157.48)
 		)
 		(stroke
 			(width 0)
@@ -217,7 +708,17 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 144.78) (xy 220.98 144.78)
+			(xy 204.47 41.91) (xy 219.71 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89b68670-e0c5-4281-ae1f-383cf5aa5d29")
+	)
+	(wire
+		(pts
+			(xy 182.88 137.16) (xy 203.2 137.16)
 		)
 		(stroke
 			(width 0)
@@ -227,7 +728,17 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 81.28) (xy 83.82 81.28)
+			(xy 204.47 78.74) (xy 219.71 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d79dbb8-7b1a-44a8-af09-40e551adca19")
+	)
+	(wire
+		(pts
+			(xy 43.18 81.28) (xy 60.96 81.28)
 		)
 		(stroke
 			(width 0)
@@ -237,17 +748,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 118.11) (xy 139.7 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a355527d-5f4b-4827-84ea-a659d9770e07")
-	)
-	(wire
-		(pts
-			(xy 73.66 59.69) (xy 138.43 59.69)
+			(xy 50.8 59.69) (xy 115.57 59.69)
 		)
 		(stroke
 			(width 0)
@@ -257,7 +758,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 38.1) (xy 132.08 38.1)
+			(xy 96.52 38.1) (xy 107.95 38.1)
 		)
 		(stroke
 			(width 0)
@@ -267,7 +768,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 76.2) (xy 83.82 76.2)
+			(xy 43.18 76.2) (xy 60.96 76.2)
 		)
 		(stroke
 			(width 0)
@@ -277,27 +778,37 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 81.28) (xy 138.43 81.28)
+			(xy 203.2 157.48) (xy 217.17 157.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c5f1f723-0b11-4489-96af-c06699d65e15")
+		(uuid "b5bf664c-a7a5-45a9-a046-8b1979b443e0")
 	)
 	(wire
 		(pts
-			(xy 208.28 154.94) (xy 220.98 154.94)
+			(xy 107.95 38.1) (xy 115.57 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ce8c2d86-e520-4259-97fe-bb4f975c22ec")
+		(uuid "b7feaee1-ec6a-4f93-823a-967fb685ec0f")
 	)
 	(wire
 		(pts
-			(xy 76.2 149.86) (xy 140.97 149.86)
+			(xy 203.2 120.65) (xy 217.17 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca0ee070-e766-4630-9ded-36fa12034440")
+	)
+	(wire
+		(pts
+			(xy 50.8 147.32) (xy 115.57 147.32)
 		)
 		(stroke
 			(width 0)
@@ -307,7 +818,17 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 76.2) (xy 127 76.2)
+			(xy 101.6 76.2) (xy 115.57 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d60b7de9-1ea2-4891-9518-51f119f6a166")
+	)
+	(wire
+		(pts
+			(xy 96.52 76.2) (xy 101.6 76.2)
 		)
 		(stroke
 			(width 0)
@@ -317,7 +838,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 113.03) (xy 132.08 113.03)
+			(xy 115.57 100.33) (xy 107.95 100.33)
 		)
 		(stroke
 			(width 0)
@@ -327,7 +848,7 @@
 	)
 	(hierarchical_label "AMP_IN_L_P"
 		(shape input)
-		(at 66.04 38.1 180)
+		(at 43.18 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -339,7 +860,7 @@
 	)
 	(hierarchical_label "AMP_IN_R_P"
 		(shape input)
-		(at 66.04 76.2 180)
+		(at 43.18 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -351,7 +872,7 @@
 	)
 	(hierarchical_label "AMP_IN_SE_ENABLE"
 		(shape input)
-		(at 73.66 59.69 180)
+		(at 50.8 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -363,7 +884,7 @@
 	)
 	(hierarchical_label "AMP_IN_R_N"
 		(shape input)
-		(at 66.04 81.28 180)
+		(at 43.18 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -375,7 +896,7 @@
 	)
 	(hierarchical_label "AMP_OUT_BAL_L_N"
 		(shape output)
-		(at 219.71 123.19 0)
+		(at 217.17 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -387,7 +908,7 @@
 	)
 	(hierarchical_label "AMP_IN_BAL_L_ENABLE"
 		(shape input)
-		(at 76.2 118.11 180)
+		(at 53.34 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -399,7 +920,7 @@
 	)
 	(hierarchical_label "AMP_OUT_BAL_R_P"
 		(shape output)
-		(at 220.98 144.78 0)
+		(at 217.17 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -423,7 +944,7 @@
 	)
 	(hierarchical_label "AMP_IN_L_N"
 		(shape input)
-		(at 66.04 43.18 180)
+		(at 43.18 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -435,7 +956,7 @@
 	)
 	(hierarchical_label "AMP_OUT_SE_L"
 		(shape output)
-		(at 217.17 41.91 0)
+		(at 219.71 41.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -447,7 +968,7 @@
 	)
 	(hierarchical_label "AMP_IN_BAL_R_ENABLE"
 		(shape input)
-		(at 76.2 149.86 180)
+		(at 50.8 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -459,7 +980,7 @@
 	)
 	(hierarchical_label "AMP_OUT_BAL_R_N"
 		(shape output)
-		(at 220.98 154.94 0)
+		(at 217.17 157.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -471,7 +992,7 @@
 	)
 	(hierarchical_label "AMP_OUT_BAL_L_P"
 		(shape output)
-		(at 219.71 113.03 0)
+		(at 218.44 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -481,9 +1002,1239 @@
 		)
 		(uuid "de9fda43-4dd6-41d3-83ed-0d7fc252c6ed")
 	)
+	(symbol
+		(lib_id "power:+12VA")
+		(at 210.82 95.25 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0bad9958-9bc9-439a-a3ee-72288286d913")
+		(property "Reference" "#PWR0111"
+			(at 207.01 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VA"
+			(at 214.63 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12VA\""
+			(at 210.82 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd178285-43af-4841-b508-ffc3e71a23d4")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12VA")
+		(at 210.82 132.08 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "130667c3-73c4-4d6f-b407-61efb4af6f03")
+		(property "Reference" "#PWR0113"
+			(at 207.01 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VA"
+			(at 214.63 132.0799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12VA\""
+			(at 210.82 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "28669155-938d-4b02-b50f-886d103c27de")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0113")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-12VA")
+		(at 195.58 132.08 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e660f86-302d-4fd5-aaeb-72fd45dab867")
+		(property "Reference" "#PWR0116"
+			(at 199.39 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-5VA"
+			(at 191.77 132.0799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12VA\""
+			(at 195.58 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a53fa0e4-1563-4544-80a0-5034efb71acb")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0116")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAV99")
+		(at 203.2 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30a31440-547a-4324-b7bb-f4104012cb9f")
+		(property "Reference" "D8"
+			(at 203.2 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAV99"
+			(at 203.2 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 203.2 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf"
+			(at 203.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 203.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a05cab18-23b5-4e9b-9724-715a0d0c68c3")
+		)
+		(pin "2"
+			(uuid "6b893ebf-0e91-4e4e-a111-1a3fbdd802de")
+		)
+		(pin "3"
+			(uuid "afb0d933-be89-470b-9a68-163e518b6f49")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12VA")
+		(at 210.82 115.57 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4aecd9ea-5884-4c97-9a75-0957d4117c43")
+		(property "Reference" "#PWR0112"
+			(at 207.01 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VA"
+			(at 214.63 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12VA\""
+			(at 210.82 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b8ddc703-9064-4a57-b879-22891f7533b0")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0112")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-12VA")
+		(at 195.58 115.57 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b00c23e-0f49-4752-8f46-385edb5a5cf1")
+		(property "Reference" "#PWR0117"
+			(at 199.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-5VA"
+			(at 191.77 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12VA\""
+			(at 195.58 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7b83b592-2bd1-4011-baf4-a2144807139b")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12VA")
+		(at 212.09 36.83 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6cff1d07-3fe7-4bc3-b5a2-51762cd0a14e")
+		(property "Reference" "#PWR0109"
+			(at 208.28 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VA"
+			(at 215.9 36.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12VA\""
+			(at 212.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53f28f6e-b1cb-4344-9c7e-689e26b7dd69")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAV99")
+		(at 203.2 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f07c240-04d8-4e97-9d3e-37d923d3ae8b")
+		(property "Reference" "D10"
+			(at 203.2 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAV99"
+			(at 203.2 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 203.2 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf"
+			(at 203.2 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 203.2 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aaa2a98b-2bff-4abb-95e1-38830f8bccb1")
+		)
+		(pin "2"
+			(uuid "5cb914bc-650f-433f-96d9-3469956dd7b4")
+		)
+		(pin "3"
+			(uuid "c6e8b8f8-8f67-4629-b6b7-c49bc8b664a3")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12VA")
+		(at 210.82 152.4 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "82988037-943c-49d0-add3-b17ff77c544f")
+		(property "Reference" "#PWR0114"
+			(at 207.01 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VA"
+			(at 214.63 152.3999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12VA\""
+			(at 210.82 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4cf3cbaf-9a9b-4e89-9643-735ec176f457")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0114")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-12VA")
+		(at 196.85 36.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b2974673-45c4-4214-8cd0-30c402fbb208")
+		(property "Reference" "#PWR0120"
+			(at 200.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-5VA"
+			(at 193.04 36.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12VA\""
+			(at 196.85 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8968a776-a0c6-4320-93fb-2ddea2e45718")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0120")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-12VA")
+		(at 195.58 152.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b834b41d-7958-4752-882d-a263baa78f91")
+		(property "Reference" "#PWR0115"
+			(at 199.39 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-5VA"
+			(at 191.77 152.3999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12VA\""
+			(at 195.58 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d3834514-61f2-4e72-ac24-603340bdc496")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0115")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAV99")
+		(at 203.2 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bde8ab5d-a4da-4edb-b37f-e91cb55cd890")
+		(property "Reference" "D11"
+			(at 203.2 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAV99"
+			(at 203.2 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 203.2 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf"
+			(at 203.2 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 203.2 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6872ba3-1128-4707-b9a1-a17fb641d3d8")
+		)
+		(pin "2"
+			(uuid "82d30e80-a7c8-452c-af19-8d2555f645e1")
+		)
+		(pin "3"
+			(uuid "5e37e914-9855-447a-9e4a-bb6271662d40")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAV99")
+		(at 203.2 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5bde04d-3e8c-44b5-b403-f643455d8f60")
+		(property "Reference" "D9"
+			(at 203.2 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAV99"
+			(at 203.2 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 203.2 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf"
+			(at 203.2 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 203.2 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7fd36cbe-9be4-471e-b24a-cb3e85436072")
+		)
+		(pin "2"
+			(uuid "8c6fc3ec-d396-488e-9964-5844775dd82d")
+		)
+		(pin "3"
+			(uuid "c99a29af-62cf-4351-bbe5-98107fd9e015")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAV99")
+		(at 204.47 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9902953-c3ad-4f13-b240-73c3eda33c11")
+		(property "Reference" "D7"
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAV99"
+			(at 204.47 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 204.47 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf"
+			(at 204.47 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 204.47 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7acd9521-9ae0-4bce-90bc-3443fd690fd0")
+		)
+		(pin "2"
+			(uuid "64983ec0-e67b-495a-9baf-be54e5d3e58b")
+		)
+		(pin "3"
+			(uuid "f3bb828d-ecfd-4e94-969f-a669e7e48102")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAV99")
+		(at 204.47 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ca89fc9a-f172-4235-9acd-4a00b7dc5b63")
+		(property "Reference" "D6"
+			(at 204.47 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAV99"
+			(at 204.47 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 204.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf"
+			(at 204.47 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 204.47 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a6f81f2-0a95-42a1-adf1-6768f4619479")
+		)
+		(pin "2"
+			(uuid "93b30de6-a04b-4ba5-bcde-8a71a5128904")
+		)
+		(pin "3"
+			(uuid "88677fb0-2a4f-4a60-b2c2-bccc35c30ffd")
+		)
+		(instances
+			(project ""
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12VA")
+		(at 212.09 73.66 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d3ac7579-5f10-4d1f-9de3-23267970f76c")
+		(property "Reference" "#PWR0110"
+			(at 208.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VA"
+			(at 215.9 73.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.09 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12VA\""
+			(at 212.09 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8389ca27-9c58-4ab7-b845-7663bb7d4ad3")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-12VA")
+		(at 196.85 73.66 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f128e096-cd69-4534-84c5-0c397260033a")
+		(property "Reference" "#PWR0119"
+			(at 200.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-5VA"
+			(at 193.04 73.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12VA\""
+			(at 196.85 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e7c6040-b58c-4fea-b809-f5d82ef6eb2b")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0119")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-12VA")
+		(at 195.58 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f4234391-2aae-4354-8cd2-620b43deb183")
+		(property "Reference" "#PWR0118"
+			(at 199.39 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-5VA"
+			(at 191.77 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12VA\""
+			(at 195.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9148e929-8e4b-44b3-852a-ecd79d65bbde")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea"
+					(reference "#PWR0118")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(sheet
-		(at 139.7 109.855)
-		(size 67.31 16.51)
+		(at 115.57 97.155)
+		(size 67.31 26.67)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -494,7 +2245,7 @@
 		)
 		(uuid "1a7c2388-0e9a-4978-b565-aab0f7919656")
 		(property "Sheetname" "BalDiffAmp_L"
-			(at 139.7 109.1434 0)
+			(at 115.57 96.4434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -503,7 +2254,7 @@
 			)
 		)
 		(property "Sheetfile" "BalDiffAmp.kicad_sch"
-			(at 139.7 126.9496 0)
+			(at 115.57 124.4096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -512,7 +2263,7 @@
 			)
 		)
 		(pin "BALDIFFAMP_IN_N" input
-			(at 139.7 123.19 180)
+			(at 115.57 120.65 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -522,7 +2273,7 @@
 			(uuid "e7b6840b-b084-4269-bb49-c7ae84729abc")
 		)
 		(pin "BALDIFFAMP_IN_P" input
-			(at 139.7 113.03 180)
+			(at 115.57 100.33 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -532,7 +2283,7 @@
 			(uuid "c7a3dfe6-3938-4abf-b5cb-555a0357a086")
 		)
 		(pin "BALDIFFAMP_OUT_P" output
-			(at 207.01 113.03 0)
+			(at 182.88 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -542,7 +2293,7 @@
 			(uuid "9a66e861-0b47-4806-97b4-ea00f22f28e4")
 		)
 		(pin "BALDIFFAMP_OUT_N" output
-			(at 207.01 123.19 0)
+			(at 182.88 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -552,7 +2303,7 @@
 			(uuid "daf28f37-ada5-4613-894d-59ddc6a15849")
 		)
 		(pin "BALDIFFAMP_ENABLE" input
-			(at 139.7 118.11 180)
+			(at 115.57 110.49 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -570,7 +2321,7 @@
 		)
 	)
 	(sheet
-		(at 83.82 72.39)
+		(at 60.96 72.39)
 		(size 35.56 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -582,7 +2333,7 @@
 		)
 		(uuid "574d008d-ad41-427d-a68f-2f471a4a5a63")
 		(property "Sheetname" "IVConverter_R"
-			(at 83.82 71.6784 0)
+			(at 60.96 71.6784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -591,7 +2342,7 @@
 			)
 		)
 		(property "Sheetfile" "ivconverter.kicad_sch"
-			(at 83.82 85.6746 0)
+			(at 60.96 85.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -600,7 +2351,7 @@
 			)
 		)
 		(pin "IVCONV_IN_P" input
-			(at 83.82 76.2 180)
+			(at 60.96 76.2 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -610,7 +2361,7 @@
 			(uuid "cfe0e73e-9be2-43f6-9719-6239470d3bb4")
 		)
 		(pin "IVCONV_IN_N" input
-			(at 83.82 81.28 180)
+			(at 60.96 81.28 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -620,7 +2371,7 @@
 			(uuid "fadaa763-bf90-48ba-b333-86050aad3a8c")
 		)
 		(pin "IVCONV_OUT_N" output
-			(at 119.38 81.28 0)
+			(at 96.52 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -630,7 +2381,7 @@
 			(uuid "9a3b0832-151b-4b80-92f4-1108e7c33fe3")
 		)
 		(pin "IVCONV_OUT_P" output
-			(at 119.38 76.2 0)
+			(at 96.52 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -648,8 +2399,8 @@
 		)
 	)
 	(sheet
-		(at 140.97 141.605)
-		(size 67.31 16.51)
+		(at 115.57 133.985)
+		(size 67.31 26.67)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -660,7 +2411,7 @@
 		)
 		(uuid "9f9c7045-f919-4646-b118-b603b053c849")
 		(property "Sheetname" "BalDiffAmp_R"
-			(at 140.97 140.8934 0)
+			(at 115.57 133.2734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -669,7 +2420,7 @@
 			)
 		)
 		(property "Sheetfile" "BalDiffAmp.kicad_sch"
-			(at 140.97 158.6996 0)
+			(at 115.57 161.2396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -678,7 +2429,7 @@
 			)
 		)
 		(pin "BALDIFFAMP_IN_N" input
-			(at 140.97 154.94 180)
+			(at 115.57 157.48 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -688,7 +2439,7 @@
 			(uuid "1f38a512-df5a-4f30-b177-61b2612174df")
 		)
 		(pin "BALDIFFAMP_IN_P" input
-			(at 140.97 144.78 180)
+			(at 115.57 137.16 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -698,7 +2449,7 @@
 			(uuid "b41c18d0-39de-4839-817d-371abda10e99")
 		)
 		(pin "BALDIFFAMP_OUT_P" output
-			(at 208.28 144.78 0)
+			(at 182.88 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -708,7 +2459,7 @@
 			(uuid "6f18473c-8385-4f23-91ed-8ad9a443226e")
 		)
 		(pin "BALDIFFAMP_OUT_N" output
-			(at 208.28 154.94 0)
+			(at 182.88 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -718,7 +2469,7 @@
 			(uuid "6fc704a1-dcdd-4967-b37e-ecbb1b3fb324")
 		)
 		(pin "BALDIFFAMP_ENABLE" input
-			(at 140.97 149.86 180)
+			(at 115.57 147.32 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -736,7 +2487,7 @@
 		)
 	)
 	(sheet
-		(at 83.82 34.29)
+		(at 60.96 34.29)
 		(size 35.56 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -748,7 +2499,7 @@
 		)
 		(uuid "bfc31d8b-f809-4f07-ada9-e821aec1eec1")
 		(property "Sheetname" "IVConverter_L"
-			(at 83.82 33.5784 0)
+			(at 60.96 33.5784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -757,7 +2508,7 @@
 			)
 		)
 		(property "Sheetfile" "ivconverter.kicad_sch"
-			(at 83.82 47.5746 0)
+			(at 60.96 47.5746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -766,7 +2517,7 @@
 			)
 		)
 		(pin "IVCONV_IN_P" input
-			(at 83.82 38.1 180)
+			(at 60.96 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -776,7 +2527,7 @@
 			(uuid "9d78eeaf-7a20-447a-a270-fdcb09a45736")
 		)
 		(pin "IVCONV_IN_N" input
-			(at 83.82 43.18 180)
+			(at 60.96 43.18 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -786,7 +2537,7 @@
 			(uuid "f19709af-5488-4d41-b73a-6894edd8635b")
 		)
 		(pin "IVCONV_OUT_N" output
-			(at 119.38 43.18 0)
+			(at 96.52 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -796,7 +2547,7 @@
 			(uuid "2d0b6295-a571-4358-b7e4-a969e926f2b7")
 		)
 		(pin "IVCONV_OUT_P" output
-			(at 119.38 38.1 0)
+			(at 96.52 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -814,7 +2565,7 @@
 		)
 	)
 	(sheet
-		(at 138.43 34.29)
+		(at 115.57 34.29)
 		(size 68.58 50.8)
 		(fields_autoplaced yes)
 		(stroke
@@ -826,7 +2577,7 @@
 		)
 		(uuid "e26c83d8-adef-4edb-bc93-065fe5f245aa")
 		(property "Sheetname" "SeDiffAmp"
-			(at 138.43 33.5784 0)
+			(at 115.57 33.5784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -835,7 +2586,7 @@
 			)
 		)
 		(property "Sheetfile" "sediffamp.kicad_sch"
-			(at 138.43 85.6746 0)
+			(at 115.57 85.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -844,7 +2595,7 @@
 			)
 		)
 		(pin "SEDIFFAMP_INL_P" input
-			(at 138.43 38.1 180)
+			(at 115.57 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -854,7 +2605,7 @@
 			(uuid "eac8ca8b-72b6-488c-9fb5-6a757f7fba40")
 		)
 		(pin "SEDIFFAMP_INL_N" input
-			(at 138.43 43.18 180)
+			(at 115.57 43.18 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -864,7 +2615,7 @@
 			(uuid "98e6672f-5dc9-4da7-a6c1-9684374221a7")
 		)
 		(pin "SEDIFFAMP_OUTR" output
-			(at 207.01 78.74 0)
+			(at 184.15 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -874,7 +2625,7 @@
 			(uuid "175f6f98-cca6-4004-934d-463dafbda749")
 		)
 		(pin "SEDIFFAMP_ENABLE" input
-			(at 138.43 59.69 180)
+			(at 115.57 59.69 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -884,7 +2635,7 @@
 			(uuid "8b2248b5-6798-4ccf-946c-25ec46b8f73d")
 		)
 		(pin "SEDIFFAMP_OUTL" output
-			(at 207.01 41.91 0)
+			(at 184.15 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -894,7 +2645,7 @@
 			(uuid "3a753a68-9854-44de-85fd-b149aeabf742")
 		)
 		(pin "SEDIFFAMP_INR_P" input
-			(at 138.43 76.2 180)
+			(at 115.57 76.2 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -904,7 +2655,7 @@
 			(uuid "93049065-50d2-4052-b124-d0b020ae5179")
 		)
 		(pin "SEDIFFAMP_INR_N" input
-			(at 138.43 81.28 180)
+			(at 115.57 81.28 180)
 			(effects
 				(font
 					(size 1.27 1.27)
