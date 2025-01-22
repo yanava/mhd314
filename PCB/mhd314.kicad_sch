@@ -3432,6 +3432,17 @@
 		)
 		(uuid "34fed12e-c525-436d-8cfe-3d5614e952da")
 	)
+	(label "DAC_SPDIF"
+		(at 160.02 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "356b6448-d2c3-48af-bcf3-ac87673a54d4")
+	)
 	(label "DAC_OUT_L_N"
 		(at 175.26 73.66 0)
 		(fields_autoplaced yes)
@@ -3508,17 +3519,6 @@
 			(justify left bottom)
 		)
 		(uuid "551131fc-2a92-41d8-b0ae-c41b3ba0346f")
-	)
-	(label "BRD_ONOFF"
-		(at 160.02 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5b3fffc0-1218-4616-aba8-9ff3c9df93fb")
 	)
 	(label "AMP_DIFF_EN"
 		(at 160.02 125.73 0)

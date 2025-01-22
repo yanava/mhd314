@@ -1731,9 +1731,106 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Audio:OPA1622")
+		(at 144.78 156.21 0)
+		(unit 3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "146e0505-a007-4489-983c-20af9b2e7537")
+		(property "Reference" "U13"
+			(at 140.97 154.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "OPA1622"
+			(at 140.97 157.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_SON:Texas_S-PVSON-N10"
+			(at 144.78 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa1622.pdf"
+			(at 144.78 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "High-Fidelity, Bipolar-Input, Audio Operational Amplifier, VSON-10"
+			(at 144.78 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "ad846b2d-52f1-4ab4-b4d6-412d0da28ad7")
+		)
+		(pin "1"
+			(uuid "9e182f65-e719-4c8e-869c-d24ccf2f6835")
+		)
+		(pin "2"
+			(uuid "bcd8dffe-7e0e-4a2d-bcc3-72b98b765587")
+		)
+		(pin "10"
+			(uuid "33f8b25a-12a8-4a21-9b0e-50a25613651e")
+		)
+		(pin "3"
+			(uuid "0b6b1346-1dc7-48e6-b005-cafecdbcf7c6")
+		)
+		(pin "8"
+			(uuid "580670e2-a221-4adc-9a55-dd31a51343e8")
+		)
+		(pin "6"
+			(uuid "3cf0ca56-756b-44a2-b8ee-07f29f9a87b4")
+		)
+		(pin "9"
+			(uuid "bfdefe60-449e-4758-ad2a-afca943d75f5")
+		)
+		(pin "11"
+			(uuid "0132a04b-3799-43c4-b851-0fec937bc87c")
+		)
+		(pin "7"
+			(uuid "92fd1183-a34a-420a-829b-fe847fbaaca9")
+		)
+		(pin "5"
+			(uuid "b47a80d0-bf77-4733-b935-7c7e51b6f5ed")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea/e26c83d8-adef-4edb-bc93-065fe5f245aa"
+					(reference "U13")
+					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Audio:OPA1622")
 		(at 139.7 105.41 0)
 		(mirror x)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1741,7 +1838,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a617444-8095-4da8-9f33-cc5ec80f6772")
 		(property "Reference" "U13"
-			(at 139.7 115.57 0)
+			(at 139.7 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1749,7 +1846,7 @@
 			)
 		)
 		(property "Value" "OPA1622"
-			(at 139.7 113.03 0)
+			(at 139.7 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1787,40 +1884,40 @@
 			(uuid "41506405-5059-487d-8f4f-d95957b202c4")
 		)
 		(pin "1"
-			(uuid "9e182f65-e719-4c8e-869c-d24ccf2f6835")
+			(uuid "9e182f65-e719-4c8e-869c-d24ccf2f6836")
 		)
 		(pin "2"
 			(uuid "0103e695-15e3-4f42-bd56-069873d30e14")
 		)
 		(pin "10"
-			(uuid "33f8b25a-12a8-4a21-9b0e-50a25613651e")
+			(uuid "33f8b25a-12a8-4a21-9b0e-50a25613651f")
 		)
 		(pin "3"
 			(uuid "f341d2c9-a6f2-4045-81de-69a52575eff1")
 		)
 		(pin "8"
-			(uuid "580670e2-a221-4adc-9a55-dd31a51343e8")
+			(uuid "580670e2-a221-4adc-9a55-dd31a51343e9")
 		)
 		(pin "6"
-			(uuid "3cf0ca56-756b-44a2-b8ee-07f29f9a87b4")
+			(uuid "3cf0ca56-756b-44a2-b8ee-07f29f9a87b5")
 		)
 		(pin "9"
-			(uuid "bfdefe60-449e-4758-ad2a-afca943d75f5")
+			(uuid "bfdefe60-449e-4758-ad2a-afca943d75f6")
 		)
 		(pin "11"
 			(uuid "2cbeaf91-ea13-4099-bd70-49c92146888f")
 		)
 		(pin "7"
-			(uuid "92fd1183-a34a-420a-829b-fe847fbaaca9")
+			(uuid "92fd1183-a34a-420a-829b-fe847fbaacaa")
 		)
 		(pin "5"
-			(uuid "b47a80d0-bf77-4733-b935-7c7e51b6f5ed")
+			(uuid "b47a80d0-bf77-4733-b935-7c7e51b6f5ee")
 		)
 		(instances
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea/e26c83d8-adef-4edb-bc93-065fe5f245aa"
 					(reference "U13")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
@@ -1835,7 +1932,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c525243-e325-45a6-8e13-c55cbb90a799")
-		(property "Reference" "U12"
+		(property "Reference" "U13"
 			(at 146.558 58.674 0)
 			(effects
 				(font
@@ -1914,7 +2011,7 @@
 		(instances
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea/e26c83d8-adef-4edb-bc93-065fe5f245aa"
-					(reference "U12")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -2733,103 +2830,6 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea/e26c83d8-adef-4edb-bc93-065fe5f245aa"
 					(reference "R26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Amplifier_Audio:OPA1622")
-		(at 144.78 156.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ed48c79-45a0-43c3-81a3-32f8f204d138")
-		(property "Reference" "U14"
-			(at 146.05 154.9399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "OPA1622"
-			(at 146.05 157.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SON:Texas_S-PVSON-N10"
-			(at 144.78 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa1622.pdf"
-			(at 144.78 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "High-Fidelity, Bipolar-Input, Audio Operational Amplifier, VSON-10"
-			(at 144.78 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "78fc0e80-9f04-4b4b-a0e2-4de1e276ec71")
-		)
-		(pin "1"
-			(uuid "9e182f65-e719-4c8e-869c-d24ccf2f6837")
-		)
-		(pin "2"
-			(uuid "98bd8881-620d-40b1-bc65-ab1f88f9572b")
-		)
-		(pin "10"
-			(uuid "33f8b25a-12a8-4a21-9b0e-50a256136520")
-		)
-		(pin "3"
-			(uuid "128ea6f4-32ac-4edc-be68-e77e4acc3591")
-		)
-		(pin "8"
-			(uuid "580670e2-a221-4adc-9a55-dd31a51343ea")
-		)
-		(pin "6"
-			(uuid "ef5d7ae5-3621-43d1-a898-08c0b7dc3431")
-		)
-		(pin "9"
-			(uuid "bfdefe60-449e-4758-ad2a-afca943d75f7")
-		)
-		(pin "11"
-			(uuid "b4f9d274-1576-4731-abbe-7be16fc3a37c")
-		)
-		(pin "7"
-			(uuid "7bef2358-dd8a-4c84-91a1-fddde8a14535")
-		)
-		(pin "5"
-			(uuid "8c6f5eb8-a1fe-4e5e-a24b-fb93fbcff262")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea/e26c83d8-adef-4edb-bc93-065fe5f245aa"
-					(reference "U14")
 					(unit 1)
 				)
 			)

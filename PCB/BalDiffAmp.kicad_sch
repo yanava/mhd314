@@ -2225,7 +2225,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d07e628-f487-4a44-b0d4-9a402d5cf48d")
-		(property "Reference" "U13"
+		(property "Reference" "U11"
 			(at 157.48 152.3999 0)
 			(effects
 				(font
@@ -2306,11 +2306,11 @@
 		(instances
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea/1a7c2388-0e9a-4978-b565-aab0f7919656"
-					(reference "U13")
+					(reference "U11")
 					(unit 3)
 				)
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/913309c3-489c-42b3-afc6-179d92cffcea/9f9c7045-f919-4646-b118-b603b053c849"
-					(reference "U12")
+					(reference "U4")
 					(unit 3)
 				)
 			)

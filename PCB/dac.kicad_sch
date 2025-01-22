@@ -1721,16 +1721,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 121.92) (xy 137.16 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22cc4891-64ed-4281-a650-16b22a2d2c0a")
-	)
-	(wire
-		(pts
 			(xy 109.22 119.38) (xy 116.84 119.38)
 		)
 		(stroke
@@ -2371,16 +2361,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 93.98) (xy 127 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbc14c55-7fd8-4057-bf62-f280d5e9ae83")
-	)
-	(wire
-		(pts
 			(xy 228.6 99.06) (xy 242.57 99.06)
 		)
 		(stroke
@@ -2398,16 +2378,6 @@
 			(type default)
 		)
 		(uuid "dc852645-17f1-4ed8-b0b8-29947beef8b5")
-	)
-	(wire
-		(pts
-			(xy 127 115.57) (xy 127 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0af05ee-eeef-4648-976d-361310405d87")
 	)
 	(wire
 		(pts
@@ -4918,94 +4888,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 127 111.76 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "913f580a-daed-49c4-9237-76575ee503ae")
-		(property "Reference" "C2"
-			(at 130.81 110.4899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1uF"
-			(at 130.81 113.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 126.0348 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 127 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 127 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage" "6.3V"
-			(at 127 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b5287876-80b9-4189-a6fe-e8dd3d7392ac")
-		)
-		(pin "2"
-			(uuid "7008210d-5b11-4524-a65c-31ff5946ebb4")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/e6893b8a-069a-4e5d-bc8d-bd86195d5cb0"
-					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 144.78 77.47 180)
 		(unit 1)
@@ -5547,7 +5429,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "10k"
 			(at 123.444 78.994 0)
 			(effects
 				(font

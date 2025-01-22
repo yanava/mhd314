@@ -2056,12 +2056,6 @@
 		(uuid "29785404-60fc-49d1-8e5a-1d0d6029144a")
 	)
 	(junction
-		(at 156.21 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e110a1d-3717-4fd9-94cb-98d146184d2c")
-	)
-	(junction
 		(at 156.21 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2116,22 +2110,10 @@
 		(uuid "5a74c135-ccf0-4ba4-a748-47eb2cc8d0bc")
 	)
 	(junction
-		(at 156.21 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5dd894fa-3209-45df-80e4-780450fb9c03")
-	)
-	(junction
 		(at 224.79 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6135f5b7-a29c-4d6d-97dc-49fc783ac2fb")
-	)
-	(junction
-		(at 156.21 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a7f24a2-ca36-4fd8-88d0-df8928560746")
 	)
 	(junction
 		(at 160.02 43.18)
@@ -2240,12 +2222,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c29033d4-f0fa-459a-86b1-6f526fdf1aec")
-	)
-	(junction
-		(at 156.21 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c324eb22-2831-4122-809b-4c8908751878")
 	)
 	(junction
 		(at 241.3 67.31)
@@ -2363,16 +2339,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 113.03) (xy 156.21 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ad2d6a9-677f-40fd-ab5c-d9b4758bd670")
-	)
-	(wire
-		(pts
 			(xy 91.44 64.77) (xy 86.36 64.77)
 		)
 		(stroke
@@ -2410,16 +2376,6 @@
 			(type default)
 		)
 		(uuid "0d7d07c0-087d-4355-be1e-3f54db114b42")
-	)
-	(wire
-		(pts
-			(xy 137.16 121.92) (xy 143.51 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0db8f598-70d0-449c-9d03-74b5d9391b7d")
 	)
 	(wire
 		(pts
@@ -2533,16 +2489,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 113.03) (xy 143.51 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d562f47-e553-4de0-af81-ef388c81b3bd")
-	)
-	(wire
-		(pts
 			(xy 118.11 74.93) (xy 118.11 76.2)
 		)
 		(stroke
@@ -2583,16 +2529,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 132.08) (xy 156.21 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25dea2e9-b0c2-4784-b7a1-9985abc2e10b")
-	)
-	(wire
-		(pts
 			(xy 73.66 130.81) (xy 73.66 132.08)
 		)
 		(stroke
@@ -2620,16 +2556,6 @@
 			(type default)
 		)
 		(uuid "2c8fefc8-95ee-44d4-b39d-d0180dce157e")
-	)
-	(wire
-		(pts
-			(xy 151.13 152.4) (xy 156.21 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cd9f317-cd2c-4f5f-8154-c9379070f534")
 	)
 	(wire
 		(pts
@@ -2670,16 +2596,6 @@
 			(type default)
 		)
 		(uuid "370e48d5-1d6b-4ace-a29d-d133ea01d662")
-	)
-	(wire
-		(pts
-			(xy 156.21 132.08) (xy 156.21 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "377222a1-6408-4cbd-a592-5dbfcd637f07")
 	)
 	(wire
 		(pts
@@ -2903,16 +2819,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 161.29) (xy 143.51 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6783ab20-a64e-4497-825b-c056e7b75207")
-	)
-	(wire
-		(pts
 			(xy 40.64 167.64) (xy 40.64 168.91)
 		)
 		(stroke
@@ -3063,16 +2969,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 152.4) (xy 143.51 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74c23013-af7a-4495-9e81-4a83c4ad4291")
-	)
-	(wire
-		(pts
 			(xy 53.34 59.69) (xy 60.96 59.69)
 		)
 		(stroke
@@ -3120,16 +3016,6 @@
 			(type default)
 		)
 		(uuid "775d5ef5-368f-42aa-b825-057b478c0630")
-	)
-	(wire
-		(pts
-			(xy 151.13 171.45) (xy 156.21 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77a41924-3e43-4d51-8db3-eafcf46f0fc5")
 	)
 	(wire
 		(pts
@@ -3223,16 +3109,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 132.08) (xy 143.51 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "848f2265-ecf0-4c89-be59-937d13aaee4c")
-	)
-	(wire
-		(pts
 			(xy 232.41 33.02) (xy 241.3 33.02)
 		)
 		(stroke
@@ -3273,16 +3149,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 152.4) (xy 156.21 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a507463-a0eb-4c63-b34b-89adf9e395ad")
-	)
-	(wire
-		(pts
 			(xy 101.6 85.09) (xy 101.6 87.63)
 		)
 		(stroke
@@ -3303,16 +3169,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 161.29) (xy 156.21 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "911906ad-dca0-4952-b891-4aa2f06a6c07")
-	)
-	(wire
-		(pts
 			(xy 104.14 113.03) (xy 104.14 114.3)
 		)
 		(stroke
@@ -3320,16 +3176,6 @@
 			(type default)
 		)
 		(uuid "91a1db42-45e3-42e2-b8a0-3a6f1317fde8")
-	)
-	(wire
-		(pts
-			(xy 156.21 171.45) (xy 156.21 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "920b751a-1a5b-4a6d-8e3d-d1cd6350aa95")
 	)
 	(wire
 		(pts
@@ -3543,16 +3389,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 121.92) (xy 156.21 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4f84d80-a16a-4ef9-b371-0b9353a6daf8")
-	)
-	(wire
-		(pts
 			(xy 255.27 76.2) (xy 255.27 77.47)
 		)
 		(stroke
@@ -3570,16 +3406,6 @@
 			(type default)
 		)
 		(uuid "ae97d5b7-64ad-4f5a-a9ce-b9df46f4165c")
-	)
-	(wire
-		(pts
-			(xy 138.43 171.45) (xy 143.51 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aeb43fd3-b0d0-4bed-b185-554796c3b012")
 	)
 	(wire
 		(pts
@@ -3733,16 +3559,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 121.92) (xy 156.21 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8d213cd-4fa4-4aee-8e0f-7942867379eb")
-	)
-	(wire
-		(pts
 			(xy 73.66 167.64) (xy 90.17 167.64)
 		)
 		(stroke
@@ -3793,16 +3609,6 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 161.29) (xy 156.21 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3f663a8-a3fb-4fee-96fa-37846e141979")
-	)
-	(wire
-		(pts
 			(xy 127 69.85) (xy 156.21 69.85)
 		)
 		(stroke
@@ -3810,16 +3616,6 @@
 			(type default)
 		)
 		(uuid "d4a167ab-3535-4fc2-8e8c-f20a53d0e9e8")
-	)
-	(wire
-		(pts
-			(xy 151.13 113.03) (xy 156.21 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5cf21ef-c5fa-4b9b-b2ef-55466813a14f")
 	)
 	(wire
 		(pts
@@ -4241,74 +4037,6 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
 					(reference "C38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 147.32 152.4 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0551f6d2-b806-4b79-8a33-70274d7054bd")
-		(property "Reference" "R68"
-			(at 147.32 146.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 147.32 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 147.32 150.622 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 147.32 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "36f37ddb-2595-4a21-996d-4f5876099459")
-		)
-		(pin "1"
-			(uuid "a187deb6-3783-459e-b95f-35e1b8744320")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -4788,73 +4516,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VBUS")
-		(at 137.16 152.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "154300b3-e67b-46a7-97ff-ffd4ba3b1237")
-		(property "Reference" "#PWR057"
-			(at 140.97 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V1"
-			(at 133.35 152.3999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 137.16 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4feb16fa-294c-4241-82b8-400dd5062a76")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "#PWR057")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Transistor_FET:AO3401A")
 		(at 54.61 35.56 270)
 		(mirror x)
@@ -5055,209 +4716,6 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
 					(reference "#PWR069")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 147.32 132.08 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1e84c49c-6c41-42b4-803a-9f6c185e4250")
-		(property "Reference" "R67"
-			(at 147.32 125.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 147.32 128.27 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 147.32 133.858 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 147.32 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8bbe622d-c9be-4208-84d2-8260fda077e3")
-		)
-		(pin "1"
-			(uuid "e719de10-47f6-4d2f-b42d-9cafa295683e")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "R67")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 147.32 121.92 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23ebe72d-f9b6-4610-bd9b-ddeb87b18404")
-		(property "Reference" "R66"
-			(at 147.32 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 147.32 118.11 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 147.32 123.698 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 147.32 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0d4e42a2-e3d0-4c8e-acb3-dd937260c514")
-		)
-		(pin "1"
-			(uuid "28d985ab-a723-4b9a-9095-cd64c89adc02")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "R66")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 137.16 113.03 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2512d45d-4608-4f4f-87bf-a1edac32d87a")
-		(property "Reference" "#PWR053"
-			(at 140.97 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V1"
-			(at 133.35 113.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 137.16 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "23df2532-2f0f-4ae7-82a2-a0c4cc90641b")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -5679,73 +5137,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VBUS")
-		(at 138.43 132.08 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c04c9b0-e4ca-4465-ae43-df0eb3488250")
-		(property "Reference" "#PWR055"
-			(at 142.24 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3VIN"
-			(at 134.62 132.0799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 138.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 138.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 138.43 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7434f1ce-8c01-425b-b386-81e7bb3a7116")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "#PWR055")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 54.61 22.86 90)
 		(unit 1)
@@ -5884,74 +5275,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 147.32 113.03 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "44ea9458-e3e6-41b0-8020-9cf9247a0b20")
-		(property "Reference" "R65"
-			(at 147.32 106.68 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 147.32 109.22 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 147.32 111.252 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 147.32 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "eb27f435-50d6-4b21-b4a1-b4de969855fd")
-		)
-		(pin "1"
-			(uuid "89e45842-9f43-4afe-9c3a-116b8c4db84f")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "R65")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 104.14 163.83 0)
 		(unit 1)
@@ -6016,140 +5339,6 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
 					(reference "C30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 156.21 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4bebcc18-0cd7-4e08-b6b5-19756c83db72")
-		(property "Reference" "#PWR056"
-			(at 156.21 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 156.21 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 156.21 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 156.21 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c3cb06d8-daa3-449e-b50e-5cf99a54a947")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "#PWR056")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 147.32 171.45 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "58b7bf11-b31b-4e75-9625-4cd82b16241e")
-		(property "Reference" "R70"
-			(at 147.32 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 147.32 167.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 147.32 173.228 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 147.32 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "919cb319-fdd4-478c-adc1-bd9f031baee2")
-		)
-		(pin "1"
-			(uuid "62a5f6d7-1134-4240-9d15-7a0e63da53d7")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "R70")
 					(unit 1)
 				)
 			)
@@ -6376,73 +5565,6 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
 					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 137.16 121.92 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5acbc02e-dbcc-43de-9dcc-067ef625f958")
-		(property "Reference" "#PWR054"
-			(at 140.97 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V2"
-			(at 133.35 121.9199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 137.16 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6c262ccc-9f23-4dcb-9148-be2b04e01948")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -6741,7 +5863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V2"
+		(property "Value" "+3.3V"
 			(at 104.14 151.13 0)
 			(effects
 				(font
@@ -7743,74 +6865,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 147.32 161.29 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "82695ff5-b215-4227-838e-c41f83b61965")
-		(property "Reference" "R69"
-			(at 147.32 154.94 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0R"
-			(at 147.32 157.48 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 147.32 163.068 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 147.32 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "51f13c42-25e3-4594-a3be-9f60d20998b1")
-		)
-		(pin "1"
-			(uuid "fc75ef7c-2c4e-4280-9fd7-39ea0160f46a")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "R69")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+8V")
 		(at 185.42 33.02 0)
 		(unit 1)
@@ -8341,73 +7395,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VBUS")
-		(at 137.16 161.29 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9d1f827e-31d1-40db-aae2-329e70f7e8a2")
-		(property "Reference" "#PWR058"
-			(at 140.97 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V2"
-			(at 133.35 161.2899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 137.16 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b95f0726-4ef8-48fa-8853-758ca1181b50")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "#PWR058")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 73.66 132.08 0)
 		(unit 1)
@@ -8693,7 +7680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V1"
+		(property "Value" "+3.3VA"
 			(at 104.14 105.41 0)
 			(effects
 				(font
@@ -9072,72 +8059,6 @@
 			(project ""
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
 					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 156.21 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bfbaee2d-6d73-4325-a410-27fe034c6d54")
-		(property "Reference" "#PWR060"
-			(at 156.21 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3VA"
-			(at 156.21 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 156.21 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 156.21 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e9879bb9-d8e7-40e5-bc31-9a0273098430")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -10188,73 +9109,6 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
 					(reference "R62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 138.43 171.45 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f45fe3fd-a8a3-4644-a60b-9f391aa77262")
-		(property "Reference" "#PWR059"
-			(at 142.24 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3VIN"
-			(at 134.62 171.4499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 138.43 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 138.43 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 138.43 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c02657e7-1359-4e56-9a8f-7ba7c7f7958a")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "#PWR059")
 					(unit 1)
 				)
 			)
