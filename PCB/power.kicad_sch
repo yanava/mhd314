@@ -419,151 +419,6 @@
 				)
 			)
 		)
-		(symbol "Diode:1N5819WS"
-			(pin_numbers hide)
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "1N5819WS"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_SMD:D_SOD-323"
-				(at 0 -4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2204281430_Guangdong-Hottech-1N5819WS_C191023.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode Schottky"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "D*SOD?323*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "1N5819WS_0_1"
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "1N5819WS_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Regulator_Linear:LM317_SOT-223"
 			(pin_names
 				(offset 0.254)
@@ -1670,6 +1525,321 @@
 				)
 			)
 		)
+		(symbol "mahaudio_kicad_lib:MBR130T1G"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CR"
+				(at 5.08 4.445 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "MBR130T1G"
+				(at 5.08 -3.81 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "SOD-123_425-04_ONS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mbr130t1-d.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "DIODE SCHOTTKY 30V 1A SOD123"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "MBR130T1G"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOD-123_425-04_ONS SOD-123_425-04_ONS-M SOD-123_425-04_ONS-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MBR130T1G_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.905) (xy 6.35 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.905) (xy 3.81 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.905) (xy 6.35 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 3.81 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "MBR130T1G_1_2"
+				(polyline
+					(pts
+						(xy -1.905 3.81) (xy 1.905 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.175) (xy 0 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy -1.905 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy 0 7.62)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 3.81) (xy 0 6.35)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 6.35) (xy -1.905 6.35)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 10.16 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+8V"
 			(power)
 			(pin_numbers hide)
@@ -2032,12 +2202,6 @@
 		(uuid "16c9c204-109d-4512-9176-b4f0eefa55bc")
 	)
 	(junction
-		(at 132.08 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1f39fb64-6bc6-4e94-a459-0cc9ddd938dd")
-	)
-	(junction
 		(at 241.3 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2162,6 +2326,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "926ef2d2-0a2b-40ce-97e0-4ded4d71cfba")
+	)
+	(junction
+		(at 132.08 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9729aa27-f5b0-4a3a-81e3-5d35b1600647")
 	)
 	(junction
 		(at 104.14 113.03)
@@ -2509,7 +2679,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 33.02) (xy 97.79 33.02)
+			(xy 91.44 33.02) (xy 105.41 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2599,6 +2769,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 33.02) (xy 132.08 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37ae912a-7153-4e70-a14c-8862825acfd8")
+	)
+	(wire
+		(pts
 			(xy 129.54 57.15) (xy 129.54 59.69)
 		)
 		(stroke
@@ -2606,16 +2786,6 @@
 			(type default)
 		)
 		(uuid "39a4de53-2850-4bf7-b3eb-bf17da547b84")
-	)
-	(wire
-		(pts
-			(xy 105.41 33.02) (xy 132.08 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3aa04531-1f9f-4665-885e-989b110d9a2e")
 	)
 	(wire
 		(pts
@@ -3119,6 +3289,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 74.93) (xy 162.56 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85847f99-0440-4901-9db6-d877331584bc")
+	)
+	(wire
+		(pts
 			(xy 86.36 69.85) (xy 86.36 67.31)
 		)
 		(stroke
@@ -3269,7 +3449,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 69.85) (xy 179.07 67.31)
+			(xy 179.07 74.93) (xy 179.07 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3299,7 +3479,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 69.85) (xy 179.07 69.85)
+			(xy 175.26 74.93) (xy 179.07 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3449,7 +3629,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 69.85) (xy 167.64 69.85)
+			(xy 156.21 69.85) (xy 162.56 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3629,6 +3809,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 74.93) (xy 162.56 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcfbc3e8-e9ea-47b2-844c-840c0d7ba6bd")
+	)
+	(wire
+		(pts
 			(xy 55.88 113.03) (xy 66.04 113.03)
 		)
 		(stroke
@@ -3746,25 +3936,6 @@
 			(type default)
 		)
 		(uuid "fee7773c-72ef-4a55-ae71-7e655bba09fa")
-	)
-	(text_box "Instructions for +3.3V supplies:\n\n1. Select which supply drives +3.3V and +3.3VA by soldering the appropriate resistor\n2. Do not solder more than one resistor per supply\n\n"
-		(exclude_from_sim no)
-		(at 163.83 132.08 0)
-		(size 50.165 13.97)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "1b14c0a8-d0c4-4d6c-b7fd-65c37f2e898b")
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -6114,6 +6285,76 @@
 		)
 	)
 	(symbol
+		(lib_id "mahaudio_kicad_lib:MBR130T1G")
+		(at 105.41 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68628908-b558-4b93-935c-6070812742da")
+		(property "Reference" "D1"
+			(at 110.49 26.67 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MBR130T1G"
+			(at 110.49 29.21 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "SOD-123_425-04_ONS"
+			(at 105.41 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mbr130t1-d.pdf"
+			(at 105.41 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "DIODE SCHOTTKY 30V 1A SOD123"
+			(at 105.41 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "60d7c0a0-0e4d-47b3-8b4d-f617fb366f10")
+		)
+		(pin "2"
+			(uuid "a3563875-4d0b-405e-8200-c5fd776c48cc")
+		)
+		(instances
+			(project ""
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 60.96 67.31 0)
 		(unit 1)
@@ -6317,74 +6558,6 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
 					(reference "R53")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N5819WS")
-		(at 101.6 33.02 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "73870e91-472c-4db5-a2c5-35bfb2693807")
-		(property "Reference" "D1"
-			(at 101.9175 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N5819WS"
-			(at 101.9175 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 101.6 28.575 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2204281430_Guangdong-Hottech-1N5819WS_C191023.pdf"
-			(at 101.6 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
-			(at 101.6 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5b68e9a4-a29b-4a74-9f73-65614899c9c0")
-		)
-		(pin "1"
-			(uuid "5001b0e6-db47-48c1-b30c-dccc4ae71ee6")
-		)
-		(instances
-			(project ""
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -7728,73 +7901,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N5819WS")
-		(at 171.45 69.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "abccc6fb-f91f-4675-b8d0-bc78ae235943")
-		(property "Reference" "D2"
-			(at 169.926 73.406 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N5819WS"
-			(at 173.482 75.946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 171.45 74.295 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2204281430_Guangdong-Hottech-1N5819WS_C191023.pdf"
-			(at 171.45 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
-			(at 171.45 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7a039521-6f34-4ab4-89dc-9ee1ed1fb9ae")
-		)
-		(pin "1"
-			(uuid "55cd62f8-567a-4c4f-9d40-c0448c9ccb81")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 40.64 168.91 0)
 		(unit 1)
@@ -8271,6 +8377,76 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
 					(reference "R43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mahaudio_kicad_lib:MBR130T1G")
+		(at 175.26 74.93 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c767b1f8-e543-4197-a7a4-befb8423d620")
+		(property "Reference" "D2"
+			(at 170.18 68.58 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MBR130T1G"
+			(at 170.18 71.12 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "SOD-123_425-04_ONS"
+			(at 175.26 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mbr130t1-d.pdf"
+			(at 175.26 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "DIODE SCHOTTKY 30V 1A SOD123"
+			(at 175.26 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be0518b2-3671-4146-bf94-922284a67976")
+		)
+		(pin "2"
+			(uuid "60727ac6-28ca-48e9-96ae-44dfebacdb75")
+		)
+		(instances
+			(project "mhd314"
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/b0c3c96c-8419-4ffd-8e63-3926f4c1a6a6"
+					(reference "D2")
 					(unit 1)
 				)
 			)

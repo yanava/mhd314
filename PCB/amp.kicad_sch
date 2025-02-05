@@ -849,7 +849,6 @@
 	(hierarchical_label "AMP_IN_L_P"
 		(shape input)
 		(at 43.18 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -861,7 +860,6 @@
 	(hierarchical_label "AMP_IN_R_P"
 		(shape input)
 		(at 43.18 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -873,7 +871,6 @@
 	(hierarchical_label "AMP_IN_SE_ENABLE"
 		(shape input)
 		(at 50.8 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -885,7 +882,6 @@
 	(hierarchical_label "AMP_IN_R_N"
 		(shape input)
 		(at 43.18 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -897,7 +893,6 @@
 	(hierarchical_label "AMP_OUT_BAL_L_N"
 		(shape output)
 		(at 217.17 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -909,7 +904,6 @@
 	(hierarchical_label "AMP_IN_BAL_L_ENABLE"
 		(shape input)
 		(at 53.34 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -921,7 +915,6 @@
 	(hierarchical_label "AMP_OUT_BAL_R_P"
 		(shape output)
 		(at 217.17 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -933,7 +926,6 @@
 	(hierarchical_label "AMP_OUT_SE_R"
 		(shape output)
 		(at 219.71 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -945,7 +937,6 @@
 	(hierarchical_label "AMP_IN_L_N"
 		(shape input)
 		(at 43.18 43.18 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -957,7 +948,6 @@
 	(hierarchical_label "AMP_OUT_SE_L"
 		(shape output)
 		(at 219.71 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -969,7 +959,6 @@
 	(hierarchical_label "AMP_IN_BAL_R_ENABLE"
 		(shape input)
 		(at 50.8 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -981,7 +970,6 @@
 	(hierarchical_label "AMP_OUT_BAL_R_N"
 		(shape output)
 		(at 217.17 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -993,7 +981,6 @@
 	(hierarchical_label "AMP_OUT_BAL_L_P"
 		(shape output)
 		(at 218.44 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

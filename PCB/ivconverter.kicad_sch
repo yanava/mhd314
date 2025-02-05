@@ -1407,7 +1407,6 @@
 	(hierarchical_label "IVCONV_IN_N"
 		(shape input)
 		(at 107.95 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1419,7 +1418,6 @@
 	(hierarchical_label "IVCONV_OUT_N"
 		(shape output)
 		(at 182.88 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1431,7 +1429,6 @@
 	(hierarchical_label "IVCONV_OUT_P"
 		(shape output)
 		(at 182.88 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1443,7 +1440,6 @@
 	(hierarchical_label "IVCONV_IN_P"
 		(shape input)
 		(at 107.95 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

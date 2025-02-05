@@ -1111,7 +1111,6 @@
 	(hierarchical_label "E2P_ID_SDA"
 		(shape bidirectional)
 		(at 184.15 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1123,7 +1122,6 @@
 	(hierarchical_label "E2P_ID_SCL"
 		(shape input)
 		(at 184.15 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

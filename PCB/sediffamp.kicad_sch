@@ -1506,7 +1506,6 @@
 	(hierarchical_label "SEDIFFAMP_OUTR"
 		(shape output)
 		(at 184.15 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1518,7 +1517,6 @@
 	(hierarchical_label "SEDIFFAMP_INR_P"
 		(shape input)
 		(at 95.25 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1530,7 +1528,6 @@
 	(hierarchical_label "SEDIFFAMP_OUTL"
 		(shape output)
 		(at 182.88 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1542,7 +1539,6 @@
 	(hierarchical_label "SEDIFFAMP_INR_N"
 		(shape input)
 		(at 95.25 107.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1554,7 +1550,6 @@
 	(hierarchical_label "SEDIFFAMP_INL_P"
 		(shape input)
 		(at 95.25 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1566,7 +1561,6 @@
 	(hierarchical_label "SEDIFFAMP_INL_N"
 		(shape input)
 		(at 95.25 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1578,7 +1572,6 @@
 	(hierarchical_label "SEDIFFAMP_ENABLE"
 		(shape input)
 		(at 182.88 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -2481,7 +2481,6 @@
 	)
 	(label "DAC_DVDD"
 		(at 170.18 63.5 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2493,7 +2492,6 @@
 	(hierarchical_label "DAC_OUT_R_P"
 		(shape output)
 		(at 242.57 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2505,7 +2503,6 @@
 	(hierarchical_label "DAC_OUT_L_P"
 		(shape output)
 		(at 242.57 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2517,7 +2514,6 @@
 	(hierarchical_label "DAC_IN_PCM_LRCLK"
 		(shape input)
 		(at 40.64 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2529,7 +2525,6 @@
 	(hierarchical_label "DAC_IO_SDA"
 		(shape bidirectional)
 		(at 40.64 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2541,7 +2536,6 @@
 	(hierarchical_label "DAC_HPSDb"
 		(shape output)
 		(at 204.47 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2553,7 +2547,6 @@
 	(hierarchical_label "DAC_OUT_L_N"
 		(shape output)
 		(at 242.57 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2565,7 +2558,6 @@
 	(hierarchical_label "DAC_FSYNC"
 		(shape output)
 		(at 204.47 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2577,7 +2569,6 @@
 	(hierarchical_label "DAC_OUT_R_N"
 		(shape output)
 		(at 242.57 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2589,7 +2580,6 @@
 	(hierarchical_label "DAC_IN_SPDIF"
 		(shape input)
 		(at 40.64 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2601,7 +2591,6 @@
 	(hierarchical_label "DAC_IN_PCM_BCLK"
 		(shape input)
 		(at 40.64 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2613,7 +2602,6 @@
 	(hierarchical_label "DAC_SW"
 		(shape output)
 		(at 204.47 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2625,7 +2613,6 @@
 	(hierarchical_label "DAC_IN_SCL"
 		(shape input)
 		(at 40.64 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2637,7 +2624,6 @@
 	(hierarchical_label "DAC_IN_PCM_DATA"
 		(shape input)
 		(at 40.64 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2649,7 +2635,6 @@
 	(hierarchical_label "DAC_IN_RESETB"
 		(shape input)
 		(at 40.64 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
