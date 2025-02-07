@@ -268,12 +268,15 @@
 				)
 			)
 		)
-		(symbol "Oscillator:ASCO"
+		(symbol "Oscillator:ASE-xxxMHz"
+			(pin_names
+				(offset 0.254)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "X"
-				(at -7.62 6.35 0)
+			(property "Reference" "Y"
+				(at -5.08 6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -281,7 +284,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "ASCO"
+			(property "Value" "ASE-xxxMHz"
 				(at 1.27 -6.35 0)
 				(effects
 					(font
@@ -290,8 +293,8 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm"
-				(at 2.54 -8.89 0)
+			(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+				(at 17.78 -8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -299,8 +302,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://abracon.com/Oscillators/ASCO.pdf"
-				(at -5.715 3.175 0)
+			(property "Datasheet" "http://www.abracon.com/Oscillators/ASV.pdf"
+				(at -2.54 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -308,7 +311,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Crystal Clock Oscillator, Abracon ASCO"
+			(property "Description" "3.3V CMOS SMD Crystal Clock Oscillator, Abracon"
 				(at 0 0 0)
 				(effects
 					(font
@@ -317,7 +320,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "Crystal Clock Oscillator"
+			(property "ki_keywords" "3.3V CMOS SMD Crystal Clock Oscillator"
 				(at 0 0 0)
 				(effects
 					(font
@@ -326,7 +329,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "Oscillator*Abracon*ASCO*1.6x1.2mm*"
+			(property "ki_fp_filters" "Oscillator*SMD*Abracon*ASE*3.2x2.5mm*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -335,10 +338,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "ASCO_0_1"
+			(symbol "ASE-xxxMHz_0_1"
 				(rectangle
-					(start -7.62 5.08)
-					(end 7.62 -5.08)
+					(start -5.08 5.08)
+					(end 5.08 -5.08)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -349,8 +352,8 @@
 				)
 				(polyline
 					(pts
-						(xy -5.715 2.54) (xy -5.08 2.54) (xy -5.08 3.81) (xy -4.445 3.81) (xy -4.445 2.54) (xy -3.81 2.54)
-						(xy -3.81 3.81) (xy -3.175 3.81) (xy -3.175 2.54)
+						(xy -1.27 -0.762) (xy -1.016 -0.762) (xy -1.016 0.762) (xy -0.508 0.762) (xy -0.508 -0.762) (xy 0 -0.762)
+						(xy 0 0.762) (xy 0.508 0.762) (xy 0.508 -0.762) (xy 0.762 -0.762)
 					)
 					(stroke
 						(width 0)
@@ -361,11 +364,11 @@
 					)
 				)
 			)
-			(symbol "ASCO_1_1"
+			(symbol "ASE-xxxMHz_1_1"
 				(pin input line
-					(at -10.16 0 0)
+					(at -7.62 0 0)
 					(length 2.54)
-					(name "Tri-State"
+					(name "EN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -399,7 +402,7 @@
 					)
 				)
 				(pin output line
-					(at 10.16 0 180)
+					(at 7.62 0 180)
 					(length 2.54)
 					(name "OUT"
 						(effects
@@ -419,7 +422,7 @@
 				(pin power_in line
 					(at 0 7.62 270)
 					(length 2.54)
-					(name "VDD"
+					(name "Vdd"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1831,6 +1834,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 165.1) (xy 153.67 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e287241-81cb-4d70-acd2-092490b33625")
+	)
+	(wire
+		(pts
 			(xy 191.77 83.82) (xy 220.98 83.82)
 		)
 		(stroke
@@ -2211,16 +2224,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 165.1) (xy 142.24 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7933b9a-6146-498f-ab4e-910cf0a4773b")
-	)
-	(wire
-		(pts
 			(xy 191.77 88.9) (xy 204.47 88.9)
 		)
 		(stroke
@@ -2291,7 +2294,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 165.1) (xy 121.92 165.1)
+			(xy 118.11 165.1) (xy 124.46 165.1)
 		)
 		(stroke
 			(width 0)
@@ -3697,6 +3700,80 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/e6893b8a-069a-4e5d-bc8d-bd86195d5cb0"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Oscillator:ASE-xxxMHz")
+		(at 132.08 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46cadecf-68d4-49f8-9fab-51a50bad30b4")
+		(property "Reference" "Y1"
+			(at 144.78 158.7814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ASE-50MHz"
+			(at 144.78 161.3214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+			(at 149.86 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.abracon.com/Oscillators/ASV.pdf"
+			(at 129.54 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.3V CMOS SMD Crystal Clock Oscillator, Abracon"
+			(at 132.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a6afb155-c340-4a84-96e8-a7d32c2c0a26")
+		)
+		(pin "1"
+			(uuid "c9951493-6275-4320-a775-9fd9de7ce0ce")
+		)
+		(pin "3"
+			(uuid "e4c79fd9-a79c-4474-899e-b4730e596e71")
+		)
+		(pin "4"
+			(uuid "989281e2-9d50-4bcb-a8bd-73d7c2a8c892")
+		)
+		(instances
+			(project ""
+				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/e6893b8a-069a-4e5d-bc8d-bd86195d5cb0"
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -6117,80 +6194,6 @@
 			(project "mhd314"
 				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/e6893b8a-069a-4e5d-bc8d-bd86195d5cb0"
 					(reference "R19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Oscillator:ASCO")
-		(at 132.08 165.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f690bc58-851e-4c6a-83d6-17643446630b")
-		(property "Reference" "X1"
-			(at 143.51 158.7814 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ASCO"
-			(at 143.51 161.3214 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm"
-			(at 134.62 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://abracon.com/Oscillators/ASCO.pdf"
-			(at 126.365 161.925 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Crystal Clock Oscillator, Abracon ASCO"
-			(at 132.08 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "d15a28c1-b43c-4343-a742-06e92cd59766")
-		)
-		(pin "2"
-			(uuid "371d9370-e2dd-4eee-aa60-0a1dbad657a7")
-		)
-		(pin "1"
-			(uuid "be6cd3e1-7cef-4aa1-8785-8921877c1ecd")
-		)
-		(pin "4"
-			(uuid "26f0c741-ffa2-4301-8981-b57e2537c4a8")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b/e6893b8a-069a-4e5d-bc8d-bd86195d5cb0"
-					(reference "X1")
 					(unit 1)
 				)
 			)
