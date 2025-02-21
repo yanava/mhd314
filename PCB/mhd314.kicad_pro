@@ -461,7 +461,10 @@
     "pinned_footprint_libs": [
       "_mahaudio KiCad Library"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "mhd314_lib",
+      "mahaudio_components"
+    ]
   },
   "meta": {
     "filename": "mhd314.kicad_pro",
