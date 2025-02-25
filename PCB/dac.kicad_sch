@@ -3516,12 +3516,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 132.08 147.32 0)
+		(property "Value" "+3.3VA"
+			(at 134.62 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -4769,12 +4770,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 106.68 153.67 0)
+		(property "Value" "+3.3VA"
+			(at 109.22 157.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
