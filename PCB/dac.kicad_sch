@@ -439,28 +439,30 @@
 				)
 			)
 		)
-		(symbol "mahaudio_kicad_lib:ES9038Q2M"
+		(symbol "mahaudio KiCad Library:ES9038Q2M"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at -10.414 34.29 0)
+				(at 23.114 15.24 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
-			(property "Value" ""
-				(at 21.59 1.27 0)
+			(property "Value" "ES9038Q2M"
+				(at -23.114 -5.08 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
-			(property "Footprint" ""
-				(at 21.59 1.27 0)
+			(property "Footprint" "mahaudio KiCad Library:QFN-30_EP_3x5_Pitch0.4mm"
+				(at 21.59 3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3989,7 +3991,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mahaudio_kicad_lib:ES9038Q2M")
+		(lib_id "mahaudio KiCad Library:ES9038Q2M")
 		(at 173.99 92.71 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4015,7 +4017,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "_mahaudio KiCad Library:QFN-30_EP_3x5_Pitch0.4mm"
+		(property "Footprint" "mahaudio KiCad Library:QFN-30_EP_3x5_Pitch0.4mm"
 			(at 170.18 71.12 0)
 			(effects
 				(font

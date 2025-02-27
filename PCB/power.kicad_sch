@@ -1525,15 +1525,15 @@
 				)
 			)
 		)
-		(symbol "mahaudio_kicad_lib:MBR130T1G"
+		(symbol "mahaudio KiCad Library:MBR130T1G"
 			(pin_names
 				(offset 0.254)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "CR"
-				(at 5.08 4.445 0)
+			(property "Reference" "D"
+				(at 5.08 -6.35 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -1548,7 +1548,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SOD-123_425-04_ONS"
+			(property "Footprint" "mahaudio KiCad Library:SOD-123_425-04_ONS"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1622,7 +1622,7 @@
 				)
 				(polyline
 					(pts
-						(xy 3.81 -1.905) (xy 6.35 0)
+						(xy 3.81 -1.27) (xy 6.35 0)
 					)
 					(stroke
 						(width 0.2032)
@@ -1634,7 +1634,7 @@
 				)
 				(polyline
 					(pts
-						(xy 3.81 1.905) (xy 3.81 -1.905)
+						(xy 3.81 1.27) (xy 3.81 -1.27)
 					)
 					(stroke
 						(width 0.2032)
@@ -1646,7 +1646,7 @@
 				)
 				(polyline
 					(pts
-						(xy 6.35 -1.905) (xy 6.35 1.905)
+						(xy 6.35 -1.27) (xy 6.35 1.27)
 					)
 					(stroke
 						(width 0.2032)
@@ -1658,7 +1658,7 @@
 				)
 				(polyline
 					(pts
-						(xy 6.35 0) (xy 3.81 1.905)
+						(xy 6.35 0) (xy 3.81 1.27)
 					)
 					(stroke
 						(width 0.2032)
@@ -5609,7 +5609,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LIB:WE-MAPI_4030"
+		(property "Footprint" "mahaudio KiCad Library:WE-MAPI_4030"
 			(at 156.21 76.2 0)
 			(effects
 				(font
@@ -6285,7 +6285,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mahaudio_kicad_lib:MBR130T1G")
+		(lib_id "mahaudio KiCad Library:MBR130T1G")
 		(at 105.41 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6310,7 +6310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOD-123_425-04_ONS"
+		(property "Footprint" "mahaudio KiCad Library:SOD-123_425-04_ONS"
 			(at 105.41 33.02 0)
 			(effects
 				(font
@@ -8383,7 +8383,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mahaudio_kicad_lib:MBR130T1G")
+		(lib_id "mahaudio KiCad Library:MBR130T1G")
 		(at 175.26 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8408,7 +8408,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOD-123_425-04_ONS"
+		(property "Footprint" "mahaudio KiCad Library:SOD-123_425-04_ONS"
 			(at 175.26 74.93 0)
 			(effects
 				(font
@@ -8478,7 +8478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LIB:WE-MAPI_4030"
+		(property "Footprint" "mahaudio KiCad Library:WE-MAPI_4030"
 			(at 85.09 33.02 0)
 			(effects
 				(font

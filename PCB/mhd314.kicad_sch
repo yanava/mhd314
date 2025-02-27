@@ -1699,27 +1699,29 @@
 				)
 			)
 		)
-		(symbol "mahaudio_kicad_lib:AudioJack_Pentaconn"
+		(symbol "mahaudio KiCad Library:AudioJack_Pentaconn"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at -17.272 17.272 0)
+				(at -10.414 -11.43 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
 			(property "Value" "AudioJack_Pentaconn"
-				(at -7.62 14.986 0)
+				(at 2.54 -9.144 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
-			(property "Footprint" "_mahaudio KiCad Library:Jack_4.4mm_Pentaconn_NBA1-24-001_Horizontal"
+			(property "Footprint" "mahaudio KiCad Library:Jack_4.4mm_Pentaconn_NBA1-24-001_Horizontal"
 				(at -4.572 -12.954 0)
 				(effects
 					(font
@@ -2409,6 +2411,10 @@
 	(no_connect
 		(at 254 83.82)
 		(uuid "7246f0d4-4827-4fa1-b827-99ed024da9fe")
+	)
+	(no_connect
+		(at 62.23 52.07)
+		(uuid "a8a55d14-370e-4e23-9aa7-df268a44306f")
 	)
 	(no_connect
 		(at 254 44.45)
@@ -5314,72 +5320,6 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 62.23 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "88dd0fd8-f1ea-4b1a-92ea-08c170e888e7")
-		(property "Reference" "#PWR083"
-			(at 62.23 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3VIN"
-			(at 62.23 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 62.23 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "44b67cde-25e8-4c5f-8b0d-3411cc20b57b")
-		)
-		(instances
-			(project "mhd314"
-				(path "/afee45fc-2361-4efb-9cde-757fc2efd57b"
-					(reference "#PWR083")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
 		(at 52.07 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6887,7 +6827,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mahaudio_kicad_lib:AudioJack_Pentaconn")
+		(lib_id "mahaudio KiCad Library:AudioJack_Pentaconn")
 		(at 259.08 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6913,7 +6853,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "_mahaudio KiCad Library:Jack_4.4mm_Pentaconn_NBA1-24-001_Horizontal"
+		(property "Footprint" "mahaudio KiCad Library:Jack_4.4mm_Pentaconn_NBA1-24-001_Horizontal"
 			(at 263.652 59.436 0)
 			(effects
 				(font
