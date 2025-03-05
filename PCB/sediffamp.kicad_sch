@@ -2292,7 +2292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "16V"
 			(at 128.27 152.4 0)
 			(effects
 				(font
@@ -3189,7 +3189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "16V"
 			(at 128.27 165.1 0)
 			(effects
 				(font

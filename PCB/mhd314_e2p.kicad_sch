@@ -1092,7 +1092,7 @@
 	(text_box "Instructions for Address Resistors:\n\n1. Select resistors to match RPi HAT Spec\n2. Expected address is 0x50 on I2C\n\n"
 		(exclude_from_sim no)
 		(at 34.29 90.805 0)
-		(size 50.165 13.97)
+		(size 50.165 10.795)
 		(stroke
 			(width 0)
 			(type default)
@@ -1564,7 +1564,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3434ca2c-d69b-47a5-b56c-6ed93d6cd869")
 		(property "Reference" "R82"
 			(at 106.934 88.138 0)
@@ -1772,7 +1772,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6f44c6ca-b824-4680-aa31-6f8e20f81943")
 		(property "Reference" "R78"
 			(at 91.694 88.138 0)
@@ -2494,7 +2494,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f266fc4d-1db6-46c7-b3a2-b71fcf90413a")
 		(property "Reference" "R80"
 			(at 99.314 88.138 0)

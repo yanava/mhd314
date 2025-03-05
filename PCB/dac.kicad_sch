@@ -2454,7 +2454,7 @@
 		)
 		(uuid "1963433d-5663-4973-a54a-35f63f2ee49e")
 	)
-	(text "Solder R11 - I2C ADDR - 0x90\nSolder R14 - I2C ADDR - 0x92\nDo not connect both"
+	(text "Solder R15 - I2C ADDR - 0x90\nSolder R16 - I2C ADDR - 0x92\nDo not connect both"
 		(exclude_from_sim no)
 		(at 135.128 136.906 0)
 		(effects
@@ -2788,7 +2788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "16V"
 			(at 209.55 33.02 0)
 			(effects
 				(font
@@ -3037,7 +3037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "16V"
 			(at 163.83 52.07 0)
 			(effects
 				(font
@@ -3257,7 +3257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "16V"
 			(at 220.98 33.02 0)
 			(effects
 				(font
@@ -4220,7 +4220,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "601c5198-58f4-43e1-9288-ae7c74da1d6e")
 		(property "Reference" "R16"
 			(at 141.224 110.998 0)
@@ -5160,7 +5160,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "16V"
 			(at 243.84 33.02 0)
 			(effects
 				(font
@@ -5750,7 +5750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "16V"
 			(at 232.41 33.02 0)
 			(effects
 				(font
@@ -5904,7 +5904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "6.3V"
+		(property "Voltage" "16V"
 			(at 243.84 55.88 0)
 			(effects
 				(font

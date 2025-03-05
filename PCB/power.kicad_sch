@@ -3992,6 +3992,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 255.27 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
+			(at 255.27 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "143f57a6-cdbd-4f91-8164-4f90733b839f")
 		)
@@ -4054,6 +4072,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 204.47 76.2 0)
 			(effects
 				(font
@@ -4190,6 +4226,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 170.18 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "0.1pF"
+			(at 170.18 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50V"
 			(at 170.18 38.1 0)
 			(effects
 				(font
@@ -4465,6 +4519,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10% "
+			(at 124.46 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
+			(at 124.46 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dfe6b184-2bfa-4a40-b46f-665f73485c8c")
 		)
@@ -4535,6 +4607,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "1%"
+			(at 160.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1329dc60-87e8-42f1-817b-3f0bacfebb1f")
 		)
@@ -4597,6 +4678,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 224.79 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 224.79 54.61 0)
 			(effects
 				(font
@@ -4947,6 +5037,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "1%"
+			(at 90.17 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ba48cc1-744c-4a93-b71d-3073b641b345")
 		)
@@ -5009,6 +5108,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 55.88 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 55.88 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 55.88 163.83 0)
 			(effects
 				(font
@@ -5153,6 +5270,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10% "
+			(at 185.42 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "10V"
+			(at 185.42 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24945c44-ba40-495c-a0fd-741d0017980a")
 		)
@@ -5214,6 +5349,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 143.51 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "0.1pF"
+			(at 143.51 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50V"
 			(at 143.51 63.5 0)
 			(effects
 				(font
@@ -5292,6 +5445,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "1%"
+			(at 90.17 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1fdf5049-215a-491f-9c77-64dfd553a880")
 		)
@@ -5314,7 +5476,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4069fc2f-551c-4166-b31c-8106ff1ac6ce")
 		(property "Reference" "R64"
@@ -5430,6 +5592,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10% "
+			(at 191.77 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "10V"
+			(at 191.77 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79d62977-cc22-4ade-9287-ff918d45a0c9")
 		)
@@ -5492,6 +5672,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 104.14 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 104.14 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
 			(at 104.14 163.83 0)
 			(effects
 				(font
@@ -5654,6 +5852,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "20%"
+			(at 156.21 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4fa98b8-be6b-48ba-bd87-4455e8cc1f14")
 		)
@@ -5788,6 +5995,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 40.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 40.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
 			(at 40.64 118.11 0)
 			(effects
 				(font
@@ -6269,6 +6494,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "1%"
+			(at 133.35 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c37495fb-7517-466e-992a-05e995ea5a3c")
 		)
@@ -6408,6 +6642,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 60.96 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 60.96 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76a7d1d8-dee6-42d4-99ea-2bccfddf12e3")
 		)
@@ -6478,6 +6730,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 68.58 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "10V"
+			(at 68.58 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d6a9be8-3223-46a7-9f25-2dbfa3bdc2c0")
 		)
@@ -6540,6 +6810,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 73.66 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
 			(at 73.66 172.72 0)
 			(effects
 				(font
@@ -6750,6 +7029,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 40.64 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
+			(at 40.64 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd1ba69c-c1d6-4eaa-9158-8e90437e0876")
 		)
@@ -6948,6 +7245,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 40.64 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "10V"
+			(at 40.64 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
 			(at 40.64 67.31 0)
 			(effects
 				(font
@@ -7353,6 +7668,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10% "
+			(at 144.78 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 144.78 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d965acc4-008b-4b04-8013-985197305e10")
 		)
@@ -7412,6 +7745,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 49.53 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 49.53 59.69 0)
 			(effects
 				(font
@@ -7811,6 +8153,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 241.3 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
 			(at 241.3 63.5 0)
 			(effects
 				(font
@@ -8225,6 +8576,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "1%"
+			(at 160.02 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ae1be735-f7fd-4e73-bf22-de8575a0859d")
 		)
@@ -8359,6 +8719,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 73.66 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
 			(at 73.66 127 0)
 			(effects
 				(font
@@ -8523,6 +8892,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "20%"
+			(at 85.09 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b28ef02-c0bd-4c09-8062-67b8d7bb389e")
 		)
@@ -8593,6 +8971,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 200.66 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 200.66 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c2e92c43-ef67-4d51-a4f0-27f4bb96ec7a")
 		)
@@ -8654,6 +9050,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 118.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10% "
+			(at 118.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
 			(at 118.11 80.01 0)
 			(effects
 				(font
@@ -8732,6 +9146,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 55.88 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 55.88 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73b33518-0132-47fd-a561-779c5c7f450d")
 		)
@@ -8802,6 +9234,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "1%"
+			(at 133.35 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3182a4a9-2849-417d-bdf7-a13d268c585c")
 		)
@@ -8863,6 +9304,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 185.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10% "
+			(at 185.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "10V"
 			(at 185.42 76.2 0)
 			(effects
 				(font
@@ -9073,6 +9532,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "5%"
+			(at 224.79 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "22442b13-288c-40a7-a682-729f31fc619d")
 		)
@@ -9275,6 +9743,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "1%"
+			(at 241.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "961a58bc-a7e8-47f0-a0b1-fae06f6a4f00")
 		)
@@ -9345,6 +9822,24 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 104.14 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
+			(at 104.14 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "752a8e2e-6308-4caf-ac78-6394b9c4616a")
 		)
@@ -9407,6 +9902,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 256.54 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 256.54 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
 			(at 256.54 38.1 0)
 			(effects
 				(font
