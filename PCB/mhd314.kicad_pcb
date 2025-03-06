@@ -830,7 +830,7 @@
 		(path "/411d7b56-c098-4d62-9fae-ec397d666a92")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -7376,7 +7376,7 @@
 		(path "/90b3e39e-8a4c-4e16-a559-cb053c1a99bd")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -11115,7 +11115,7 @@
 		(path "/2372cdc6-ea25-4679-869d-bfee21e7217e")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -14588,7 +14588,7 @@
 		(path "/07f4647f-184a-471c-b49e-d723ade3d051")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -15748,7 +15748,7 @@
 		(path "/20aba76d-15e5-42e1-8732-a0522900d524")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -18966,7 +18966,7 @@
 		(path "/56a5a524-b0d1-46e7-b44a-426020c4663e")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -19333,7 +19333,7 @@
 		(path "/a7871eae-2d1e-4815-af93-ca5eda047ea3")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -22505,7 +22505,7 @@
 		(path "/b0214019-e9e8-42c5-9c0e-f689baeb4ead")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -22872,7 +22872,7 @@
 		(path "/ab1826da-8289-4be5-a96f-6b5cb64d34f1")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -24659,7 +24659,7 @@
 		(path "/036c9077-5a4d-4a84-91b2-6bebeeb0659b")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -25781,7 +25781,7 @@
 		(path "/be1f41c0-477b-410f-bbc4-b1db2b73bae5")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -25896,7 +25896,7 @@
 		(path "/7c47c235-ec06-41b7-8a61-2ef8a73a85cc")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -27206,7 +27206,7 @@
 		(path "/af2fb27f-9051-4df4-b542-75160b673560")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -27893,7 +27893,7 @@
 		(path "/731c98b3-28e2-4960-98bf-ca641b182afe")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -30591,7 +30591,7 @@
 		(path "/063f07f2-c27a-4b62-8775-f64c92103314")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -31300,7 +31300,7 @@
 		(path "/a932a3d3-d5ec-4fbc-9593-9f9f29c72fbb")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -32119,7 +32119,7 @@
 		(path "/5e4926a4-de85-4038-a343-bab609ea7d25")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -33282,7 +33282,7 @@
 		(path "/7abef5ff-a156-489f-bd4f-9120f4c63931")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -35997,7 +35997,7 @@
 		(path "/1560a9e7-09a8-469f-83ca-93f3cdb19b49")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -38128,7 +38128,7 @@
 		(path "/e6936785-7ef0-45fa-89c7-ceb68eb8d884")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -38780,7 +38780,7 @@
 		(path "/afa50a0a-27e0-45a4-9647-59a2fef45098")
 		(sheetname "Root")
 		(sheetfile "mhd314.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
