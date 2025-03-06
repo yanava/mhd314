@@ -4010,6 +4010,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C15849"
+			(at 255.27 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "143f57a6-cdbd-4f91-8164-4f90733b839f")
 		)
@@ -4089,7 +4098,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 204.47 76.2 0)
 			(effects
 				(font
@@ -4244,6 +4262,15 @@
 			)
 		)
 		(property "Voltage" "50V"
+			(at 170.18 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C88896"
 			(at 170.18 38.1 0)
 			(effects
 				(font
@@ -4528,7 +4555,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16V"
+		(property "Voltage" "50V"
+			(at 124.46 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1538"
 			(at 124.46 80.01 0)
 			(effects
 				(font
@@ -4686,7 +4722,16 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "1%"
+			(at 224.79 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C416571"
 			(at 224.79 54.61 0)
 			(effects
 				(font
@@ -4825,6 +4870,15 @@
 			)
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
+			(at 54.61 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15127"
 			(at 54.61 35.56 0)
 			(effects
 				(font
@@ -5046,6 +5100,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C25094"
+			(at 90.17 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ba48cc1-744c-4a93-b71d-3073b641b345")
 		)
@@ -5125,7 +5188,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 55.88 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 55.88 163.83 0)
 			(effects
 				(font
@@ -5288,6 +5360,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C84419"
+			(at 185.42 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24945c44-ba40-495c-a0fd-741d0017980a")
 		)
@@ -5375,6 +5456,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C88938"
+			(at 143.51 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "28b46858-0c19-4e40-b4fd-1bb57b21d8ec")
 		)
@@ -5446,6 +5536,15 @@
 			)
 		)
 		(property "Tolerance" "1%"
+			(at 90.17 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25094"
 			(at 90.17 118.11 0)
 			(effects
 				(font
@@ -5610,6 +5709,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C84419"
+			(at 191.77 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79d62977-cc22-4ade-9287-ff918d45a0c9")
 		)
@@ -5690,6 +5798,15 @@
 			)
 		)
 		(property "Voltage" "16V"
+			(at 104.14 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15849"
 			(at 104.14 163.83 0)
 			(effects
 				(font
@@ -5861,6 +5978,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C6707914"
+			(at 156.21 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4fa98b8-be6b-48ba-bd87-4455e8cc1f14")
 		)
@@ -5922,6 +6048,15 @@
 			)
 		)
 		(property "Description" "1.5A 35V Adjustable Linear Regulator, SOT-223"
+			(at 73.66 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C84244"
 			(at 73.66 158.75 0)
 			(effects
 				(font
@@ -6013,6 +6148,15 @@
 			)
 		)
 		(property "Voltage" "16V"
+			(at 40.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15849"
 			(at 40.64 118.11 0)
 			(effects
 				(font
@@ -6214,6 +6358,15 @@
 			)
 		)
 		(property "Description" "1.5A 35V Adjustable Linear Regulator, SOT-223"
+			(at 224.79 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C84244"
 			(at 224.79 33.02 0)
 			(effects
 				(font
@@ -6503,6 +6656,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C26083"
+			(at 133.35 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c37495fb-7517-466e-992a-05e995ea5a3c")
 		)
@@ -6565,6 +6727,15 @@
 			)
 		)
 		(property "Description" "DIODE SCHOTTKY 30V 1A SOD123"
+			(at 105.41 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C82461"
 			(at 105.41 33.02 0)
 			(effects
 				(font
@@ -6651,7 +6822,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 60.96 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 60.96 67.31 0)
 			(effects
 				(font
@@ -6748,6 +6928,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C19666"
+			(at 68.58 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d6a9be8-3223-46a7-9f25-2dbfa3bdc2c0")
 		)
@@ -6819,6 +7008,15 @@
 			)
 		)
 		(property "Tolerance" "1%"
+			(at 73.66 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C274891"
 			(at 73.66 172.72 0)
 			(effects
 				(font
@@ -7047,6 +7245,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C15849"
+			(at 40.64 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd1ba69c-c1d6-4eaa-9158-8e90437e0876")
 		)
@@ -7107,6 +7314,15 @@
 			)
 		)
 		(property "Description" "Split-Rail Converter with Dual, Positive and Negative Outputs (750mA typ, Switch Current Limit 1950mA typ),), 2.7-5.5V, VQFN-24"
+			(at 101.6 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C87663"
 			(at 101.6 62.23 0)
 			(effects
 				(font
@@ -7263,6 +7479,15 @@
 			)
 		)
 		(property "Tolerance" "10%"
+			(at 40.64 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C19666"
 			(at 40.64 67.31 0)
 			(effects
 				(font
@@ -7677,7 +7902,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 144.78 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C16772"
 			(at 144.78 52.07 0)
 			(effects
 				(font
@@ -7754,6 +7988,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 49.53 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25076"
 			(at 49.53 59.69 0)
 			(effects
 				(font
@@ -8170,6 +8413,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C25094"
+			(at 241.3 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9807eccd-1516-4f53-bc74-4d6d51d29164")
 		)
@@ -8503,6 +8755,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C527400"
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "65eb62e6-0b48-454b-bdf6-2253119970ea")
 		)
@@ -8585,6 +8846,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C26083"
+			(at 160.02 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ae1be735-f7fd-4e73-bf22-de8575a0859d")
 		)
@@ -8646,6 +8916,15 @@
 			)
 		)
 		(property "Description" "1.5A 35V Adjustable Linear Regulator, SOT-223"
+			(at 73.66 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C84244"
 			(at 73.66 113.03 0)
 			(effects
 				(font
@@ -8736,6 +9015,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C274891"
+			(at 73.66 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce615510-933b-4745-b47e-3b78679ac17a")
 		)
@@ -8798,6 +9086,15 @@
 			)
 		)
 		(property "Description" "DIODE SCHOTTKY 30V 1A SOD123"
+			(at 175.26 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C82461"
 			(at 175.26 74.93 0)
 			(effects
 				(font
@@ -8901,6 +9198,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C6707914"
+			(at 85.09 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b28ef02-c0bd-4c09-8062-67b8d7bb389e")
 		)
@@ -8980,7 +9286,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 200.66 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 200.66 38.1 0)
 			(effects
 				(font
@@ -9067,7 +9382,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "16V"
+		(property "Voltage" "50V"
+			(at 118.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15195"
 			(at 118.11 80.01 0)
 			(effects
 				(font
@@ -9155,7 +9479,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 55.88 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 55.88 118.11 0)
 			(effects
 				(font
@@ -9243,6 +9576,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C25755"
+			(at 133.35 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3182a4a9-2849-417d-bdf7-a13d268c585c")
 		)
@@ -9322,6 +9664,15 @@
 			)
 		)
 		(property "Voltage" "10V"
+			(at 185.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C84419"
 			(at 185.42 76.2 0)
 			(effects
 				(font
@@ -9532,7 +9883,16 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "1%"
+			(at 224.79 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C416571"
 			(at 224.79 45.72 0)
 			(effects
 				(font
@@ -9752,6 +10112,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C25094"
+			(at 241.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "961a58bc-a7e8-47f0-a0b1-fae06f6a4f00")
 		)
@@ -9840,6 +10209,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C15849"
+			(at 104.14 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "752a8e2e-6308-4caf-ac78-6394b9c4616a")
 		)
@@ -9920,6 +10298,15 @@
 			)
 		)
 		(property "Voltage" "16V"
+			(at 256.54 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15849"
 			(at 256.54 38.1 0)
 			(effects
 				(font

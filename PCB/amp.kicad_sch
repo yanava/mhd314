@@ -1243,6 +1243,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C2500"
+			(at 203.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a05cab18-23b5-4e9b-9724-715a0d0c68c3")
 		)
@@ -1507,6 +1516,15 @@
 			)
 		)
 		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 203.2 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C2500"
 			(at 203.2 132.08 0)
 			(effects
 				(font
@@ -1787,6 +1805,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C2500"
+			(at 203.2 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d6872ba3-1128-4707-b9a1-a17fb641d3d8")
 		)
@@ -1850,6 +1877,15 @@
 			)
 		)
 		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 203.2 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C2500"
 			(at 203.2 115.57 0)
 			(effects
 				(font
@@ -1929,6 +1965,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C2500"
+			(at 204.47 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7acd9521-9ae0-4bce-90bc-3443fd690fd0")
 		)
@@ -1992,6 +2037,15 @@
 			)
 		)
 		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 204.47 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C2500"
 			(at 204.47 36.83 0)
 			(effects
 				(font

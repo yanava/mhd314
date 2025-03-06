@@ -1663,7 +1663,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 132.08 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 132.08 156.21 0)
 			(effects
 				(font
@@ -1764,6 +1773,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C15849"
+			(at 144.78 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80f40e2e-77e1-4ee2-9336-8413dd92a08c")
 		)
@@ -1844,7 +1862,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "50V"
+			(at 149.86 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C107021"
 			(at 149.86 116.84 0)
 			(effects
 				(font
@@ -1933,7 +1960,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "50V"
+			(at 149.86 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C107021"
 			(at 149.86 46.99 0)
 			(effects
 				(font
@@ -2245,7 +2281,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 132.08 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 132.08 143.51 0)
 			(effects
 				(font
@@ -2346,6 +2391,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C15849"
+			(at 144.78 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bfeaf519-45c9-4152-ae82-a6d5992ae023")
 		)
@@ -2410,6 +2464,15 @@
 			)
 		)
 		(property "Description" "Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8"
+			(at 151.13 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C94590"
 			(at 151.13 95.25 0)
 			(effects
 				(font
@@ -2510,6 +2573,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C94590"
+			(at 161.29 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1b8cbdf5-423f-42c0-b6a9-30ae254a4ca2")
 		)
@@ -2593,6 +2665,15 @@
 			)
 		)
 		(property "Description" "Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8"
+			(at 151.13 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C94590"
 			(at 151.13 72.39 0)
 			(effects
 				(font

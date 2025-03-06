@@ -1760,7 +1760,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 127 149.86 0)
 			(effects
 				(font
@@ -1833,6 +1842,15 @@
 			)
 		)
 		(property "Description" "High-Fidelity, Bipolar-Input, Audio Operational Amplifier, VSON-10"
+			(at 142.24 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C2876559"
 			(at 142.24 106.68 0)
 			(effects
 				(font
@@ -1952,6 +1970,15 @@
 			)
 		)
 		(property "Voltage" "16V"
+			(at 139.7 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15849"
 			(at 139.7 149.86 0)
 			(effects
 				(font
@@ -2265,6 +2292,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C2876559"
+			(at 156.21 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "e0782190-5e24-40f0-92cd-e56d145de4d6")
 		)
@@ -2375,7 +2411,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 127 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 127 162.56 0)
 			(effects
 				(font
@@ -2606,6 +2651,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C2876559"
+			(at 142.24 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "41506405-5059-487d-8f4f-d95957b202c5")
 		)
@@ -2705,6 +2759,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 142.24 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25744"
 			(at 142.24 87.63 0)
 			(effects
 				(font
@@ -3130,7 +3193,7 @@
 				)
 			)
 		)
-		(property "Value" "20R"
+		(property "Value" "22R"
 			(at 161.798 81.026 90)
 			(effects
 				(font
@@ -3167,6 +3230,15 @@
 		)
 		(property "Tolerance" "5%"
 			(at 156.21 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25092"
+			(at 156.21 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3478,6 +3550,15 @@
 			)
 		)
 		(property "Voltage" "16V"
+			(at 139.7 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15849"
 			(at 139.7 162.56 0)
 			(effects
 				(font

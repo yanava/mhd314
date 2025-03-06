@@ -3828,7 +3828,16 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "1%"
+			(at 97.79 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C416571"
 			(at 97.79 116.84 0)
 			(effects
 				(font
@@ -3859,7 +3868,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "036c9077-5a4d-4a84-91b2-6bebeeb0659b")
 		(property "Reference" "TP21"
 			(at 188.214 118.11 90)
@@ -3924,7 +3933,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "063f07f2-c27a-4b62-8775-f64c92103314")
 		(property "Reference" "TP15"
 			(at 151.384 140.97 90)
@@ -3989,7 +3998,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "07f4647f-184a-471c-b49e-d723ade3d051")
 		(property "Reference" "TP8"
 			(at 151.384 123.19 90)
@@ -4233,7 +4242,16 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "1%"
+			(at 88.9 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C416571"
 			(at 88.9 116.84 0)
 			(effects
 				(font
@@ -4276,7 +4294,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Green"
+		(property "Value" "Red"
 			(at 111.76 129.8574 90)
 			(effects
 				(font
@@ -4312,6 +4330,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C2286"
+			(at 107.95 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4fab6bea-d982-4811-a30b-13fa5712dc99")
 		)
@@ -4334,7 +4361,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1560a9e7-09a8-469f-83ca-93f3cdb19b49")
 		(property "Reference" "TP12"
 			(at 151.384 133.35 90)
@@ -4399,7 +4426,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1572b48a-913a-4d2a-95a0-25cf724b7789")
 		(property "Reference" "H4"
@@ -4463,7 +4490,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1c712de5-383a-4a70-b0da-cde75024f34e")
 		(property "Reference" "H1"
@@ -4527,7 +4554,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "20aba76d-15e5-42e1-8732-a0522900d524")
 		(property "Reference" "TP3"
 			(at 151.384 110.49 90)
@@ -4592,7 +4619,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2372cdc6-ea25-4679-869d-bfee21e7217e")
 		(property "Reference" "TP1"
 			(at 151.384 105.41 90)
@@ -4657,7 +4684,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2a769ed1-ba1e-4635-bb13-29ef45ec2922")
 		(property "Reference" "H2"
@@ -4741,7 +4768,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "_mahaudio KiCad Library:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_3D"
+		(property "Footprint" "mahaudio KiCad Library:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_3D"
 			(at 259.08 52.07 0)
 			(effects
 				(font
@@ -4760,6 +4787,15 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)"
+			(at 259.08 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C22359743"
 			(at 259.08 52.07 0)
 			(effects
 				(font
@@ -4847,6 +4883,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C285519"
+			(at 119.38 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aaa96382-8b68-4e1f-8cb8-5e4f8c185c6a")
 		)
@@ -4869,7 +4914,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "411d7b56-c098-4d62-9fae-ec397d666a92")
 		(property "Reference" "TP13"
 			(at 151.384 135.89 90)
@@ -5000,7 +5045,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "56a5a524-b0d1-46e7-b44a-426020c4663e")
 		(property "Reference" "TP19"
 			(at 188.214 113.03 90)
@@ -5065,7 +5110,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5e4926a4-de85-4038-a343-bab609ea7d25")
 		(property "Reference" "TP7"
 			(at 151.384 120.65 90)
@@ -5130,7 +5175,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "731c98b3-28e2-4960-98bf-ca641b182afe")
 		(property "Reference" "TP17"
 			(at 188.214 107.95 90)
@@ -5195,7 +5240,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7abef5ff-a156-489f-bd4f-9120f4c63931")
 		(property "Reference" "TP14"
 			(at 151.384 138.43 90)
@@ -5260,7 +5305,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7c47c235-ec06-41b7-8a61-2ef8a73a85cc")
 		(property "Reference" "TP5"
 			(at 151.384 115.57 90)
@@ -5458,7 +5503,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "90b3e39e-8a4c-4e16-a559-cb053c1a99bd")
 		(property "Reference" "TP10"
 			(at 151.384 128.27 90)
@@ -5568,7 +5613,16 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "1%"
+			(at 107.95 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C416571"
 			(at 107.95 116.84 0)
 			(effects
 				(font
@@ -5809,7 +5863,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Green"
+		(property "Value" "White"
 			(at 101.6 129.8574 90)
 			(effects
 				(font
@@ -5845,6 +5899,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C2290"
+			(at 97.79 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d6928256-a4b1-48bb-ad3f-85f48c1873c7")
 		)
@@ -5867,7 +5930,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a02bb83d-11ff-4029-92f5-c02185ad157d")
 		(property "Reference" "H3"
@@ -5996,7 +6059,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a7871eae-2d1e-4815-af93-ca5eda047ea3")
 		(property "Reference" "TP4"
 			(at 151.384 113.03 90)
@@ -6061,7 +6124,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a932a3d3-d5ec-4fbc-9593-9f9f29c72fbb")
 		(property "Reference" "TP16"
 			(at 188.214 105.41 90)
@@ -6126,7 +6189,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ab1826da-8289-4be5-a96f-6b5cb64d34f1")
 		(property "Reference" "TP6"
 			(at 151.384 118.11 90)
@@ -6191,7 +6254,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "af2fb27f-9051-4df4-b542-75160b673560")
 		(property "Reference" "TP11"
 			(at 151.384 130.81 90)
@@ -6256,7 +6319,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "afa50a0a-27e0-45a4-9647-59a2fef45098")
 		(property "Reference" "TP2"
 			(at 151.384 107.95 90)
@@ -6321,7 +6384,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b0214019-e9e8-42c5-9c0e-f689baeb4ead")
 		(property "Reference" "TP20"
 			(at 188.214 115.57 90)
@@ -6426,6 +6489,15 @@
 			)
 		)
 		(property "Description" "expansion header for Raspberry Pi 2 & 3"
+			(at 57.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C132132"
 			(at 57.15 85.09 0)
 			(effects
 				(font
@@ -6570,7 +6642,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "be1f41c0-477b-410f-bbc4-b1db2b73bae5")
 		(property "Reference" "TP9"
 			(at 151.384 125.73 90)
@@ -6636,7 +6708,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dbfc47d6-7187-45b8-a31b-69df969884d0")
 		(property "Reference" "#PWR0107"
 			(at 119.38 132.08 0)
@@ -6648,7 +6719,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 119.38 130.81 0)
+			(at 123.698 127.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6701,7 +6772,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e6936785-7ef0-45fa-89c7-ceb68eb8d884")
 		(property "Reference" "TP18"
 			(at 188.214 110.49 90)
@@ -6880,6 +6951,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C2762984 "
+			(at 259.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "R2"
 			(uuid "c2a4ac1d-0822-4531-8f25-0566b2a58991")
 		)
@@ -6929,7 +7009,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Green"
+		(property "Value" "White"
 			(at 92.71 129.8574 90)
 			(effects
 				(font
@@ -6957,6 +7037,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 88.9 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C2290"
 			(at 88.9 127 0)
 			(effects
 				(font

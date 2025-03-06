@@ -2474,7 +2474,7 @@
 		)
 		(uuid "3632fc4d-b2e7-414b-95b0-32751ebdf3d6")
 	)
-	(text "Place X1 as close to U1 as possible, \nthick short traces, surrounded by ground"
+	(text "Place Y1 as close to U1 as possible, \nthick short traces, surrounded by ground"
 		(exclude_from_sim no)
 		(at 123.698 183.896 0)
 		(effects
@@ -2709,6 +2709,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C4109"
+			(at 88.9 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d8a908aa-17c4-4fdd-8c12-273221290747")
 		)
@@ -2797,6 +2806,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C15849"
+			(at 209.55 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1b1a222d-df64-4a15-a10c-afa06bbdc553")
 		)
@@ -2829,7 +2847,7 @@
 				)
 			)
 		)
-		(property "Value" "20R"
+		(property "Value" "22R"
 			(at 56.388 87.63 90)
 			(effects
 				(font
@@ -2865,6 +2883,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 50.8 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25092"
 			(at 50.8 88.9 0)
 			(effects
 				(font
@@ -2951,7 +2978,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "16V"
+			(at 106.68 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C1525"
 			(at 106.68 162.56 0)
 			(effects
 				(font
@@ -3038,6 +3074,15 @@
 			)
 		)
 		(property "Voltage" "16V"
+			(at 163.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15849"
 			(at 163.83 52.07 0)
 			(effects
 				(font
@@ -3266,6 +3311,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C15849"
+			(at 220.98 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "30d14c36-5b94-47ee-8171-857b9e757678")
 		)
@@ -3298,7 +3352,7 @@
 				)
 			)
 		)
-		(property "Value" "20R"
+		(property "Value" "22R"
 			(at 56.388 85.344 90)
 			(effects
 				(font
@@ -3334,6 +3388,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 50.8 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25092"
 			(at 50.8 86.36 0)
 			(effects
 				(font
@@ -3440,7 +3503,7 @@
 				)
 			)
 		)
-		(property "Value" "20R"
+		(property "Value" "22R"
 			(at 56.388 82.296 90)
 			(effects
 				(font
@@ -3477,6 +3540,15 @@
 		)
 		(property "Tolerance" "5%"
 			(at 50.8 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25092"
+			(at 50.8 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3649,7 +3721,7 @@
 				)
 			)
 		)
-		(property "Value" "20R"
+		(property "Value" "22R"
 			(at 56.388 90.17 90)
 			(effects
 				(font
@@ -3685,6 +3757,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 50.8 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25092"
 			(at 50.8 91.44 0)
 			(effects
 				(font
@@ -3753,6 +3834,15 @@
 			)
 		)
 		(property "Description" "3.3V CMOS SMD Crystal Clock Oscillator, Abracon"
+			(at 132.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C19725350"
 			(at 132.08 165.1 0)
 			(effects
 				(font
@@ -3975,6 +4065,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C25744"
+			(at 116.84 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1e00928b-702d-4c9a-9645-c5085c057333")
 		)
@@ -4037,6 +4136,15 @@
 		)
 		(property "Description" "SABRE HiFi 32-Bit Stereo Low Power Audio DAC"
 			(at 205.232 80.264 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C2682306"
+			(at 173.99 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4190,6 +4298,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 224.79 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C17168"
 			(at 224.79 101.6 0)
 			(effects
 				(font
@@ -4671,6 +4788,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C17168"
+			(at 224.79 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4341864a-d4a0-457a-8805-29dae1a0e351")
 		)
@@ -4730,6 +4856,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 50.8 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C17168"
 			(at 50.8 93.98 0)
 			(effects
 				(font
@@ -4864,6 +4999,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 50.8 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C17168"
 			(at 50.8 101.6 0)
 			(effects
 				(font
@@ -5014,6 +5158,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C25744"
+			(at 144.78 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a67c7b06-7894-4ee8-9546-a64cf6b87d80")
 		)
@@ -5073,6 +5226,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 50.8 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C17168"
 			(at 50.8 99.06 0)
 			(effects
 				(font
@@ -5161,6 +5323,15 @@
 			)
 		)
 		(property "Voltage" "16V"
+			(at 243.84 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15849"
 			(at 243.84 33.02 0)
 			(effects
 				(font
@@ -5267,7 +5438,7 @@
 				)
 			)
 		)
-		(property "Value" "20R"
+		(property "Value" "22R"
 			(at 113.792 161.798 0)
 			(effects
 				(font
@@ -5303,6 +5474,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 118.11 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25092"
 			(at 118.11 160.02 0)
 			(effects
 				(font
@@ -5387,6 +5567,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C25744"
+			(at 101.6 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5314f5c9-5bc8-4b78-bc3a-966d9b91a785")
 		)
@@ -5463,6 +5652,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C4109"
+			(at 81.28 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "047505eb-1345-4115-b58c-43a89f19766d")
 		)
@@ -5531,6 +5729,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 127 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C25744"
 			(at 127 77.47 0)
 			(effects
 				(font
@@ -5759,6 +5966,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C15849"
+			(at 232.41 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abae6ebb-a5f4-4b99-b533-979dae7d7173")
 		)
@@ -5905,6 +6121,15 @@
 			)
 		)
 		(property "Voltage" "16V"
+			(at 243.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C15849"
 			(at 243.84 55.88 0)
 			(effects
 				(font
@@ -6121,6 +6346,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C25744"
+			(at 109.22 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3d55c421-f267-4b44-9d08-f6e749eb0e98")
 		)
@@ -6188,6 +6422,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C17168"
+			(at 224.79 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "937fe752-e1c6-4db4-8021-177c2d8dc673")
 		)
@@ -6247,6 +6490,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 224.79 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C17168"
 			(at 224.79 86.36 0)
 			(effects
 				(font
