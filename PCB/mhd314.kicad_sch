@@ -4768,7 +4768,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "mahaudio KiCad Library:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_3D"
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3535NG_Horizontal"
 			(at 259.08 52.07 0)
 			(effects
 				(font
@@ -6924,7 +6924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "mahaudio KiCad Library:Jack_4.4mm_Pentaconn_NBA1-24-001_Horizontal"
+		(property "Footprint" "mahaudio KiCad Library:Jack_4.4mm_G-Switch_GT-3321667P-01_Horizontal"
 			(at 263.652 59.436 0)
 			(effects
 				(font
