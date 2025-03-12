@@ -33,4 +33,4 @@ PCB/*.lck
 PCB/#auto_saved_files#
 
 # Outputs
-output/*
+PCB/output/*
