@@ -31,3 +31,6 @@ fp-info-cache
 # Kicad lock files
 PCB/*.lck
 PCB/#auto_saved_files#
+
+# Outputs
+output/*
