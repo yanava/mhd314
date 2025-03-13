@@ -1677,6 +1677,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C852566"
+			(at 139.7 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "167eb66a-d756-4ddd-8f2b-20d502611ec1")
 		)
@@ -2094,7 +2103,7 @@
 				)
 			)
 		)
-		(property "Value" "481R"
+		(property "Value" "470R"
 			(at 108.712 80.264 90)
 			(effects
 				(font
@@ -2130,6 +2139,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 109.22 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C445590"
 			(at 109.22 74.93 0)
 			(effects
 				(font
@@ -2174,7 +2192,7 @@
 				)
 			)
 		)
-		(property "Value" "481R"
+		(property "Value" "470R"
 			(at 108.712 114.554 90)
 			(effects
 				(font
@@ -2210,6 +2228,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 109.22 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C445590"
 			(at 109.22 109.22 0)
 			(effects
 				(font
@@ -2571,6 +2598,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 123.19 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C852566"
 			(at 123.19 97.79 0)
 			(effects
 				(font
@@ -2953,7 +2989,7 @@
 				)
 			)
 		)
-		(property "Value" "481R"
+		(property "Value" "470R"
 			(at 108.966 101.854 90)
 			(effects
 				(font
@@ -2989,6 +3025,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 109.22 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C445590"
 			(at 109.22 104.14 0)
 			(effects
 				(font
@@ -3033,7 +3078,7 @@
 				)
 			)
 		)
-		(property "Value" "481R"
+		(property "Value" "470R"
 			(at 109.22 64.262 90)
 			(effects
 				(font
@@ -3069,6 +3114,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 109.22 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C445590"
 			(at 109.22 69.85 0)
 			(effects
 				(font
@@ -3149,6 +3203,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 139.7 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C852566"
 			(at 139.7 125.73 0)
 			(effects
 				(font
@@ -3388,6 +3451,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 123.19 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C852566"
 			(at 123.19 82.55 0)
 			(effects
 				(font

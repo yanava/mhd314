@@ -2063,7 +2063,7 @@
 				)
 			)
 		)
-		(property "Value" "481R"
+		(property "Value" "470R"
 			(at 111.76 47.752 90)
 			(effects
 				(font
@@ -2107,6 +2107,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C445590"
+			(at 111.76 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b51a3800-b66f-44e4-9763-b28e6d58b09d")
 		)
@@ -2139,7 +2148,7 @@
 				)
 			)
 		)
-		(property "Value" "481R"
+		(property "Value" "470R"
 			(at 111.76 99.822 90)
 			(effects
 				(font
@@ -2175,6 +2184,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 111.76 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C445590"
 			(at 111.76 102.87 0)
 			(effects
 				(font
@@ -2378,7 +2396,7 @@
 				)
 			)
 		)
-		(property "Value" "336R"
+		(property "Value" "330R"
 			(at 133.096 118.11 0)
 			(effects
 				(font
@@ -2422,6 +2440,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C186314"
+			(at 128.27 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc6c102b-993a-419a-a08d-255ed90ab41d")
 		)
@@ -2454,7 +2481,7 @@
 				)
 			)
 		)
-		(property "Value" "481R"
+		(property "Value" "470R"
 			(at 111.76 113.284 90)
 			(effects
 				(font
@@ -2490,6 +2517,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C445590"
 			(at 111.76 107.95 0)
 			(effects
 				(font
@@ -2662,7 +2698,7 @@
 				)
 			)
 		)
-		(property "Value" "336R"
+		(property "Value" "330R"
 			(at 144.78 91.44 90)
 			(effects
 				(font
@@ -2698,6 +2734,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 139.7 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C186314"
 			(at 139.7 92.71 0)
 			(effects
 				(font
@@ -2823,7 +2868,7 @@
 				)
 			)
 		)
-		(property "Value" "481R"
+		(property "Value" "470R"
 			(at 111.76 61.214 90)
 			(effects
 				(font
@@ -2867,6 +2912,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C445590"
+			(at 111.76 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1b1c8902-8f09-481c-84d7-a83a2adf2858")
 		)
@@ -2899,7 +2953,7 @@
 				)
 			)
 		)
-		(property "Value" "336R"
+		(property "Value" "330R"
 			(at 143.51 39.37 90)
 			(effects
 				(font
@@ -2935,6 +2989,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 138.43 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C186314"
 			(at 138.43 40.64 0)
 			(effects
 				(font
@@ -3302,7 +3365,7 @@
 				)
 			)
 		)
-		(property "Value" "336R"
+		(property "Value" "330R"
 			(at 133.096 66.04 0)
 			(effects
 				(font
@@ -3338,6 +3401,15 @@
 			)
 		)
 		(property "Tolerance" "0.1%"
+			(at 128.27 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCBPn" "C186314"
 			(at 128.27 64.77 0)
 			(effects
 				(font

@@ -4652,6 +4652,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCBPn" "C185459"
+			(at 160.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1329dc60-87e8-42f1-817b-3f0bacfebb1f")
 		)
