@@ -4010,7 +4010,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C15849"
+		(property "LCSC Part #" "C15849"
 			(at 255.27 72.39 0)
 			(effects
 				(font
@@ -4107,7 +4107,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C1525"
+		(property "LCSC Part #" "C1525"
 			(at 204.47 76.2 0)
 			(effects
 				(font
@@ -4270,7 +4270,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C88896"
+		(property "LCSC Part #" "C88896"
 			(at 170.18 38.1 0)
 			(effects
 				(font
@@ -4564,7 +4564,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C1538"
+		(property "LCSC Part #" "C1538"
 			(at 124.46 80.01 0)
 			(effects
 				(font
@@ -4652,7 +4652,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C185459"
+		(property "LCSC Part #" "C185459"
 			(at 160.02 48.26 0)
 			(effects
 				(font
@@ -4740,7 +4740,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C416571"
+		(property "LCSC Part #" "C416571"
 			(at 224.79 54.61 0)
 			(effects
 				(font
@@ -4887,7 +4887,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C15127"
+		(property "LCSC Part #" "C15127"
 			(at 54.61 35.56 0)
 			(effects
 				(font
@@ -5109,7 +5109,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C25094"
+		(property "LCSC Part #" "C25094"
 			(at 90.17 163.83 0)
 			(effects
 				(font
@@ -5206,7 +5206,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C1525"
+		(property "LCSC Part #" "C1525"
 			(at 55.88 163.83 0)
 			(effects
 				(font
@@ -5369,7 +5369,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C84419"
+		(property "LCSC Part #" "C84419"
 			(at 185.42 38.1 0)
 			(effects
 				(font
@@ -5465,7 +5465,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C88938"
+		(property "LCSC Part #" "C88938"
 			(at 143.51 63.5 0)
 			(effects
 				(font
@@ -5553,7 +5553,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C25094"
+		(property "LCSC Part #" "C25094"
 			(at 90.17 118.11 0)
 			(effects
 				(font
@@ -5718,7 +5718,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C84419"
+		(property "LCSC Part #" "C84419"
 			(at 191.77 76.2 0)
 			(effects
 				(font
@@ -5815,7 +5815,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C15849"
+		(property "LCSC Part #" "C15849"
 			(at 104.14 163.83 0)
 			(effects
 				(font
@@ -5987,7 +5987,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C6707914"
+		(property "LCSC Part #" "C6707914"
 			(at 156.21 76.2 0)
 			(effects
 				(font
@@ -6065,7 +6065,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C84244"
+		(property "LCSC Part #" "C84244"
 			(at 73.66 158.75 0)
 			(effects
 				(font
@@ -6165,7 +6165,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C15849"
+		(property "LCSC Part #" "C15849"
 			(at 40.64 118.11 0)
 			(effects
 				(font
@@ -6375,7 +6375,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C84244"
+		(property "LCSC Part #" "C84244"
 			(at 224.79 33.02 0)
 			(effects
 				(font
@@ -6665,7 +6665,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C26083"
+		(property "LCSC Part #" "C26083"
 			(at 133.35 63.5 0)
 			(effects
 				(font
@@ -6744,7 +6744,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C82461"
+		(property "LCSC Part #" "C82461"
 			(at 105.41 33.02 0)
 			(effects
 				(font
@@ -6840,7 +6840,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C1525"
+		(property "LCSC Part #" "C1525"
 			(at 60.96 67.31 0)
 			(effects
 				(font
@@ -6937,7 +6937,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C19666"
+		(property "LCSC Part #" "C19666"
 			(at 68.58 36.83 0)
 			(effects
 				(font
@@ -7025,7 +7025,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C274891"
+		(property "LCSC Part #" "C274891"
 			(at 73.66 172.72 0)
 			(effects
 				(font
@@ -7254,7 +7254,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C15849"
+		(property "LCSC Part #" "C15849"
 			(at 40.64 163.83 0)
 			(effects
 				(font
@@ -7331,7 +7331,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C87663"
+		(property "LCSC Part #" "C87663"
 			(at 101.6 62.23 0)
 			(effects
 				(font
@@ -7496,7 +7496,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C19666"
+		(property "LCSC Part #" "C19666"
 			(at 40.64 67.31 0)
 			(effects
 				(font
@@ -7920,7 +7920,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C16772"
+		(property "LCSC Part #" "C16772"
 			(at 144.78 52.07 0)
 			(effects
 				(font
@@ -8005,7 +8005,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C25076"
+		(property "LCSC Part #" "C25076"
 			(at 49.53 59.69 0)
 			(effects
 				(font
@@ -8422,7 +8422,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C25094"
+		(property "LCSC Part #" "C25094"
 			(at 241.3 63.5 0)
 			(effects
 				(font
@@ -8764,7 +8764,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C527400"
+		(property "LCSC Part #" "C527400"
 			(at 224.79 67.31 0)
 			(effects
 				(font
@@ -8855,7 +8855,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C26083"
+		(property "LCSC Part #" "C26083"
 			(at 160.02 38.1 0)
 			(effects
 				(font
@@ -8933,7 +8933,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C84244"
+		(property "LCSC Part #" "C84244"
 			(at 73.66 113.03 0)
 			(effects
 				(font
@@ -9024,7 +9024,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C274891"
+		(property "LCSC Part #" "C274891"
 			(at 73.66 127 0)
 			(effects
 				(font
@@ -9103,7 +9103,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C82461"
+		(property "LCSC Part #" "C82461"
 			(at 175.26 74.93 0)
 			(effects
 				(font
@@ -9207,7 +9207,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C6707914"
+		(property "LCSC Part #" "C6707914"
 			(at 85.09 33.02 0)
 			(effects
 				(font
@@ -9304,7 +9304,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C1525"
+		(property "LCSC Part #" "C1525"
 			(at 200.66 38.1 0)
 			(effects
 				(font
@@ -9400,7 +9400,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C15195"
+		(property "LCSC Part #" "C15195"
 			(at 118.11 80.01 0)
 			(effects
 				(font
@@ -9497,7 +9497,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C1525"
+		(property "LCSC Part #" "C1525"
 			(at 55.88 118.11 0)
 			(effects
 				(font
@@ -9585,7 +9585,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C25755"
+		(property "LCSC Part #" "C25755"
 			(at 133.35 55.88 0)
 			(effects
 				(font
@@ -9681,7 +9681,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C84419"
+		(property "LCSC Part #" "C84419"
 			(at 185.42 76.2 0)
 			(effects
 				(font
@@ -9901,7 +9901,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C416571"
+		(property "LCSC Part #" "C416571"
 			(at 224.79 45.72 0)
 			(effects
 				(font
@@ -10121,7 +10121,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C25094"
+		(property "LCSC Part #" "C25094"
 			(at 241.3 36.83 0)
 			(effects
 				(font
@@ -10218,7 +10218,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C15849"
+		(property "LCSC Part #" "C15849"
 			(at 104.14 118.11 0)
 			(effects
 				(font
@@ -10315,7 +10315,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C15849"
+		(property "LCSC Part #" "C15849"
 			(at 256.54 38.1 0)
 			(effects
 				(font

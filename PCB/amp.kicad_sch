@@ -1243,7 +1243,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C2500"
+		(property "LCSC Part #" "C2500"
 			(at 203.2 95.25 0)
 			(effects
 				(font
@@ -1524,7 +1524,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C2500"
+		(property "LCSC Part #" "C2500"
 			(at 203.2 132.08 0)
 			(effects
 				(font
@@ -1805,7 +1805,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C2500"
+		(property "LCSC Part #" "C2500"
 			(at 203.2 152.4 0)
 			(effects
 				(font
@@ -1885,7 +1885,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C2500"
+		(property "LCSC Part #" "C2500"
 			(at 203.2 115.57 0)
 			(effects
 				(font
@@ -1965,7 +1965,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C2500"
+		(property "LCSC Part #" "C2500"
 			(at 204.47 73.66 0)
 			(effects
 				(font
@@ -2045,7 +2045,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCBPn" "C2500"
+		(property "LCSC Part #" "C2500"
 			(at 204.47 36.83 0)
 			(effects
 				(font
