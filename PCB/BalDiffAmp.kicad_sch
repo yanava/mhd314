@@ -2061,9 +2061,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0b1d5643-d67c-4cb1-8a6e-842ca6a7df03")
-		(property "Reference" "C35"
+		(property "Reference" "C36"
 			(at 137.668 28.702 90)
 			(effects
 				(font
@@ -2528,9 +2528,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "33668427-2f82-4822-9011-b75a0e6b95f5")
-		(property "Reference" "C54"
+		(property "Reference" "C55"
 			(at 135.128 83.058 90)
 			(effects
 				(font
@@ -3282,9 +3282,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "985891c6-e26c-43e9-9b7e-eb42ce1abd13")
-		(property "Reference" "C52"
+		(property "Reference" "C53"
 			(at 135.128 67.818 90)
 			(effects
 				(font
@@ -3451,9 +3451,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a201d399-7cf1-4a9a-b90c-f6699ef34ce3")
-		(property "Reference" "C56"
+		(property "Reference" "C57"
 			(at 138.938 116.332 90)
 			(effects
 				(font
