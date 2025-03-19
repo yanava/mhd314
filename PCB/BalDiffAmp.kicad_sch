@@ -1833,7 +1833,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C852566"
+		(property "JLCPCB Part #" "C852566"
 			(at 139.7 45.72 0)
 			(effects
 				(font
@@ -1934,7 +1934,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1525"
+		(property "JLCPCB Part #" "C1525"
 			(at 128.27 148.59 0)
 			(effects
 				(font
@@ -2032,15 +2032,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
-			(at 138.43 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "33d0afd6-2c4c-406a-8c55-0401f0f021e9")
 		)
@@ -2113,7 +2104,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2876559"
+		(property "JLCPCB Part #" "C2876559"
 			(at 142.24 92.71 0)
 			(effects
 				(font
@@ -2300,7 +2291,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C445590"
+		(property "JLCPCB Part #" "C445590"
 			(at 109.22 60.96 0)
 			(effects
 				(font
@@ -2398,15 +2389,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
-			(at 128.27 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "d5b191e0-6319-4323-adbb-b87772a6b5af")
 		)
@@ -2487,7 +2469,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C445590"
+		(property "JLCPCB Part #" "C445590"
 			(at 109.22 95.25 0)
 			(effects
 				(font
@@ -2570,7 +2552,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2876559"
+		(property "JLCPCB Part #" "C2876559"
 			(at 157.48 152.4 0)
 			(effects
 				(font
@@ -2698,7 +2680,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1525"
+		(property "JLCPCB Part #" "C1525"
 			(at 128.27 161.29 0)
 			(effects
 				(font
@@ -2857,7 +2839,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C852566"
+		(property "JLCPCB Part #" "C852566"
 			(at 123.19 83.82 0)
 			(effects
 				(font
@@ -2938,7 +2920,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2876559"
+		(property "JLCPCB Part #" "C2876559"
 			(at 142.24 58.42 0)
 			(effects
 				(font
@@ -3055,15 +3037,6 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 128.27 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" ""
 			(at 128.27 68.58 0)
 			(effects
 				(font
@@ -3232,15 +3205,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
-			(at 139.7 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "5301069a-b544-44e7-a32e-70e6e69d2f3e")
 		)
@@ -3391,7 +3355,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C445590"
+		(property "JLCPCB Part #" "C445590"
 			(at 109.22 90.17 0)
 			(effects
 				(font
@@ -3480,7 +3444,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C445590"
+		(property "JLCPCB Part #" "C445590"
 			(at 109.22 55.88 0)
 			(effects
 				(font
@@ -3569,7 +3533,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C852566"
+		(property "JLCPCB Part #" "C852566"
 			(at 139.7 111.76 0)
 			(effects
 				(font
@@ -3728,7 +3692,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C852566"
+		(property "JLCPCB Part #" "C852566"
 			(at 123.19 68.58 0)
 			(effects
 				(font

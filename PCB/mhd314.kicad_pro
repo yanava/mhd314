@@ -574,8 +574,8 @@
         },
         {
           "group_by": false,
-          "label": "LCSC Part #",
-          "name": "LCSC Part #",
+          "label": "JLCPCB Part #",
+          "name": "JLCPCB Part #",
           "show": true
         },
         {
@@ -612,8 +612,8 @@
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Description"
+      "sort_asc": false,
+      "sort_field": "JLCPCB Part #"
     },
     "connection_grid_size": 50.0,
     "drawing": {
