@@ -2491,7 +2491,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "430R"
 			(at 131.826 128.27 0)
 			(effects
 				(font
@@ -2535,7 +2535,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C186314"
+		(property "JLCPCB Part #" "C186317"
 			(at 127 127 0)
 			(effects
 				(font
@@ -2793,7 +2793,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "430R"
 			(at 143.51 101.6 90)
 			(effects
 				(font
@@ -2837,7 +2837,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C186314"
+		(property "JLCPCB Part #" "C186317"
 			(at 138.43 102.87 0)
 			(effects
 				(font
@@ -3038,7 +3038,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a29dda84-6518-4370-8c9d-846d0ca30d16")
 		(property "Reference" "C34"
 			(at 136.398 87.122 90)
@@ -3048,7 +3048,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "820pF"
 			(at 137.16 89.662 90)
 			(effects
 				(font
@@ -3101,6 +3101,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C99081"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e27a6ee9-d173-4c66-b8ce-81465ed40fbd")
 		)
@@ -3123,7 +3132,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a307f862-3446-4e11-8498-175270b37f31")
 		(property "Reference" "C32"
 			(at 115.062 65.532 90)
@@ -3133,7 +3142,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "820pF"
 			(at 117.602 64.77 90)
 			(effects
 				(font
@@ -3186,6 +3195,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C99081"
+			(at 121.92 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c432228f-0c1f-4c3e-a368-7bac02149ac3")
 		)
@@ -3218,7 +3236,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "430R"
 			(at 143.51 39.37 90)
 			(effects
 				(font
@@ -3262,7 +3280,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C186314"
+		(property "JLCPCB Part #" "C186317"
 			(at 138.43 40.64 0)
 			(effects
 				(font
@@ -3533,7 +3551,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "430R"
 			(at 133.096 66.04 0)
 			(effects
 				(font
@@ -3577,7 +3595,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C186314"
+		(property "JLCPCB Part #" "C186317"
 			(at 128.27 64.77 0)
 			(effects
 				(font
@@ -3705,7 +3723,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f38347cc-da87-4158-865a-89a472069874")
 		(property "Reference" "C33"
 			(at 113.792 127.762 90)
@@ -3715,7 +3733,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "820pF"
 			(at 116.332 127 90)
 			(effects
 				(font
@@ -3760,6 +3778,15 @@
 			)
 		)
 		(property "Voltage" "50V"
+			(at 120.65 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C99081"
 			(at 120.65 127 0)
 			(effects
 				(font
@@ -3855,7 +3882,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "faa328fa-692a-41da-baf2-84a4d52e2cdd")
 		(property "Reference" "C2"
 			(at 137.668 24.892 90)
@@ -3865,7 +3892,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "820pF"
 			(at 138.43 27.432 90)
 			(effects
 				(font
@@ -3910,6 +3937,15 @@
 			)
 		)
 		(property "Voltage" "50V"
+			(at 138.43 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C99081"
 			(at 138.43 31.75 0)
 			(effects
 				(font
