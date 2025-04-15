@@ -2665,7 +2665,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "3.9k"
 			(at 85.344 78.994 0)
 			(effects
 				(font
@@ -2709,7 +2709,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C4109"
+		(property "JLCPCB Part #" "C51721"
 			(at 88.9 77.47 0)
 			(effects
 				(font
@@ -5608,7 +5608,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "3.9k"
 			(at 77.724 78.994 0)
 			(effects
 				(font
@@ -5652,7 +5652,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C4109"
+		(property "JLCPCB Part #" "C51721"
 			(at 81.28 77.47 0)
 			(effects
 				(font

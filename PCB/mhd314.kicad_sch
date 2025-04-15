@@ -6585,10 +6585,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dac87ad7-eb9b-47de-8212-43d0e299e3e9")
 		(property "Reference" "J4"
-			(at 267.97 48.8949 0)
+			(at 256.286 41.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6597,7 +6596,7 @@
 			)
 		)
 		(property "Value" "AudioJack4"
-			(at 267.97 51.4349 0)
+			(at 256.286 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6869,7 +6868,7 @@
 		(dnp no)
 		(uuid "f7f0000a-5d6f-49de-8c2e-c6d67dd28a1e")
 		(property "Reference" "J2"
-			(at 269.494 60.96 0)
+			(at 256.54 61.214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
